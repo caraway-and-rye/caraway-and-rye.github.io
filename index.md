@@ -4,4 +4,4 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ## Indian
 
-[Masoor dal](/recipes/masoor-dal.md)
+[Masoor dal](/recipes/indian/masoor-dal)
