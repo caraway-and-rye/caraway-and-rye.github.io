@@ -18,3 +18,12 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ##### Vegetables
 [Carrots and peas](recipes/indian/carrots-and-peas)
+
+
+## East-Asian
+
+[Beef pho](recipes/asian/beef-pho.md)
+
+[Sesame pork stir-fry with mangetout](recipes/asian/sesame-pork-stir-fry.md)
+
+[Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry.md)
