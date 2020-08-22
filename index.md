@@ -75,6 +75,6 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 
 
-## Deserts
+## Desserts
 
 [Tiramisu](recipes/italian/tiramisu)
