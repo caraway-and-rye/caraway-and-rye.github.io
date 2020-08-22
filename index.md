@@ -4,17 +4,17 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ## Indian
 
-### Meat
+##### Meat
 
 [Chicken curry](recipes/indian/chicken-curry.md)
 
 [Lamb vindaloo](recipes/indian/lamb-vindaloo.md)
 
 
-### Dal
+##### Dal
 
 [Masoor dal](/recipes/indian/masoor-dal)
 
 
-### Vegetables
+##### Vegetables
 [Carrots and peas](recipes/indian/carrots-and-peas)
