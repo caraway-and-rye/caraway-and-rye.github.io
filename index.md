@@ -6,9 +6,9 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ##### Meat
 
-[Chicken curry](recipes/indian/chicken-curry.md)
+[Chicken curry](recipes/indian/chicken-curry)
 
-[Lamb vindaloo](recipes/indian/lamb-vindaloo.md)
+[Lamb vindaloo](recipes/indian/lamb-vindaloo)
 
 
 ##### Dal
@@ -22,8 +22,19 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ## East-Asian
 
-[Beef pho](recipes/asian/beef-pho.md)
+[Beef pho](recipes/asian/beef-pho)
 
-[Sesame pork stir-fry with mangetout](recipes/asian/sesame-pork-stir-fry.md)
+[Sesame pork stir-fry with mangetout](recipes/asian/sesame-pork-stir-fry)
 
-[Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry.md)
+[Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry)
+
+
+## Biscuits
+
+[Dried fruit biscuits](recipes/biscuits/dried-fruit-biscuits)
+
+[Spiced oatmeal biscuits](recipes/biscuits/oat-biscuits)
+
+[Pepparkakor](recipes/biscuits/pepparkakor)
+
+[Thumbprint cookies](recipes/biscuits/thumbprint-cookies)
