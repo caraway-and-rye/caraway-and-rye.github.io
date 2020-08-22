@@ -3,6 +3,7 @@
 Here's my list of recipes collected from various sources, rewritten and adjusted to my taste.
 
 
+****
 
 ## Indian
 
@@ -22,6 +23,7 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 [Carrots and peas](recipes/indian/carrots-and-peas)
 
 
+****
 
 ## East-Asian
 
@@ -32,6 +34,7 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 [Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry)
 
 
+****
 
 ## Italian
 
@@ -62,6 +65,7 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 [Tiramisu](recipes/italian/tiramisu)
 
 
+****
 
 ## Biscuits
 
@@ -74,6 +78,7 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 [Thumbprint cookies](recipes/biscuits/thumbprint-cookies)
 
 
+****
 
 ## Desserts
 
