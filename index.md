@@ -36,6 +36,17 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ****
 
+## Greek, Middle Eastern and North African
+
+[Greek meatballs](recipes/middle-eastern/greek-meatballs)
+
+[Lamb tagine](recipes/middle-eastern/moroccan-lamb-stew)
+
+[White fish tagine](recipes/middle-eastern/white-fish-tagine)
+
+
+****
+
 ## Italian
 
 
