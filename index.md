@@ -5,6 +5,36 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ****
 
+## European
+
+##### Starters
+
+[Pumpkin soup](recipes/european/pumpkin-soup)
+
+
+##### Mains
+
+[Minced Beef Wellington](recipes/european/minced-beef-wellington)
+
+[Quick "Thanksgiving" chicken](recipes/european/quick-thanksgiving-chicken)
+
+[Swedish meatballs](recipes/european/swedish-meatballs)
+
+
+##### Sides
+
+[Potato salad](recipes/european/potato-salad)
+
+[Simple side salads](recipes/european/simple-side-salads)
+
+
+##### Sauces & condiments
+
+[Apple chutney](recipes/european/apple-chutney)
+
+
+****
+
 ## Indian
 
 ##### Meat
