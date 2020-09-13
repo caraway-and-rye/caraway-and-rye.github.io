@@ -68,6 +68,8 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry)
 
+[Cabbage soba noodles with cod](recipes/asian/cod-cabbage-soba-noodles)
+
 
 ****
 
@@ -97,6 +99,8 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 [Lasagna](recipes/italian/lasagna)
 
 [Orecchiete with anchovy and broccoli](recipes/italian/orecchiete-anchovy-broccoli)
+
+[Lobster ravioli](recipes/italian/lobster-ravioli)
 
 
 ##### Secondi piatti
