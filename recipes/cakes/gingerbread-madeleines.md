@@ -1,4 +1,4 @@
-# Gingerbread Madelines
+# Gingerbread Madeleines
 
 ### Ingredients:
 * 200g brown butter at 110 degrees
