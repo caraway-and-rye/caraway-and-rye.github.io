@@ -33,6 +33,11 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 [Apple chutney](recipes/european/apple-chutney)
 
 
+##### Sausage
+
+[Spicy fennel sausage](recipes/european/hot-italian-sausage)
+
+
 ****
 
 ## Indian
@@ -108,6 +113,55 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 ****
 
+## Latin-American
+
+[Chilli con carne](recipes/latin-american/chilli-con-carne)
+
+[Fajitas](recipes/latin-american/fajitas)
+
+[Cheese pupusas](recipes/latin-american/cheese-pupusas)
+
+[Fish tacos](recipes/latin-american/fish-tacos)
+
+
+****
+
+## Breads
+
+[American pancakes](recipes/breads/american-pancakes)
+
+[Scones](recipes/breads/scones)
+
+[Soda bread](recipes/breads/soda-bread)
+
+[Waffles](recipes/breads/waffles)
+
+[Fruit bread](recipes/breads/fruit-bread)
+
+[Fougasse](recipes/breads/fougasse)
+
+
+****
+
+## Cakes
+
+[Carrot cake](recipes/cakes/carrot-cake)
+
+[Lemon pound cake](recipes/cakes/lemon-pound-cake)
+
+[Pound cake](recipes/cakes/pound-cake)
+
+[Mother's layered honey cake](recipes/cakes/mothers-layered-honey-cake)
+
+[Mother's vegan cake](recipes/cakes/mothers-vegan-cake)
+
+[Gingerbread madeleines](recipes/cakes/gingerbread-madeleines)
+
+[Spiced coffe and date cake](recipes/cakes/spiced-coffee-and-date-cake)
+
+
+****
+
 ## Biscuits
 
 [Dried fruit biscuits](recipes/biscuits/dried-fruit-biscuits)
@@ -124,3 +178,21 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 ## Desserts
 
 [Tiramisu](recipes/italian/tiramisu)
+
+[Creme patissiere](recipes/desserts/creme-patissiere)
+
+[Lemon pudding](recipes/desserts/lemon-pudding)
+
+
+****
+
+## Breakfast
+
+[American pancakes](recipes/breads/american-pancakes)
+
+[Scones](recipes/breads/scones)
+
+[Soda bread](recipes/breads/soda-bread)
+
+[Waffles](recipes/breads/waffles)
+
