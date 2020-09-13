@@ -1,9 +1,5 @@
----
-layout: post
-title:  "Fougasse"
-date:   2017-05-14 15:40:02
-categories: Bread
----
+# Fougasse
+
 
 ### Buy:
 * **fresh yeast**, 25g
