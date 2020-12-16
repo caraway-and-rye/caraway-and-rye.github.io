@@ -20,6 +20,8 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Swedish meatballs](recipes/european/swedish-meatballs)
 
+[Chicken & leek pie](recipes/european/chicken-leek-pie)
+
 
 ##### Sides
 
