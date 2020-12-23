@@ -189,6 +189,8 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Lemon pudding](recipes/desserts/lemon-pudding)
 
+[Apple pie](recipes/desserts/apple-pie)
+
 
 ****
 
