@@ -23,7 +23,11 @@ If you want some egg to brush the top of the pie, then beat the eggs together an
 
 Chop the **butter** in small pieces and rub it with the **flour**. Add in the **sugar** and the **eggs** and mix until well combined. The dough will be very soft if not saving any egg for the top. Scrape off the bowl, wrap in cling film and place in the fridge.
 
-Peel the apples, quarter and slice as thinly as possible. Mix with sugar (to taste; Bramleys might need the whole 140g). Add also spices to taste and 3 tbsp flour. Add more flour if the apples release too much juice while rolling the dough.
+*Info: The dough will be of spreadable consistency even after 30-40 mins in the fridge. Impossible to roll on the table and lift up. Rolling between cling film is a must.*
+
+Peel the apples, quarter and slice as thinly as possible. Mix with sugar (to taste; Bramleys might need the whole 140g or even more if they are unusually sour). Add also spices to taste and 3 tbsp flour. Add more flour if the apples release too much juice while rolling the dough.
+
+*Tip: Slice the apples in the pie dish. That way you can get a good idea of how much apple you need to fill as wanted.*
 
 Heat the oven to 180 C.
 
@@ -31,9 +35,9 @@ Roll the dough between 2 pieces of cling film. Either leave aside a pice or roll
 
 If egg was saved, brush the top and sprinkle with some sugar.
 
-Bake for 40-45 mins, covering with foil if the edges brown too much.
+Bake for 40-45 mins, covering with foil if the edges brown too much. Take out of the oven and let rest for at least 30 mins.
 
-Serve with whipped cream, custard or ice cream.
+Serve warm with whipped cream, custard or ice cream.
 
 ### Source:
 
