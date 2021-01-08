@@ -66,6 +66,8 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Beef pho](recipes/asian/beef-pho)
 
+[Pot stickers](recipes/asian/pot-stickers)
+
 [Sesame pork stir-fry with mangetout](recipes/asian/sesame-pork-stir-fry)
 
 [Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry)
