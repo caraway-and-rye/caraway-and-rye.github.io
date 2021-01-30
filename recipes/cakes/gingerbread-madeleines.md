@@ -1,10 +1,10 @@
 # Gingerbread Madeleines
 
 ### Ingredients:
-* 200g brown butter at 110 degrees
+* 200g brown butter at 110 degrees (start with about 300g of 80% butter so you end up with 200g of brown butter)
 * 245g bread flour
-* 120g 10x
-* 10g Baking powder
+* 120g 10x (powdered sugar)
+* 10g baking powder
 * 245g eggs
 * 130g trimoline (inverted sugar or honey)
 * 50g milk
