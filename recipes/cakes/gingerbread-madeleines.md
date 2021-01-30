@@ -23,6 +23,15 @@ One dozen madelines
 
 Mix all ingredients except the brown butter in a mixer. Slowly add the brown butter until smooth. Refrigerate for two hours or over night. Spoon into madeline pans and bake at 325 degrees until edges are golden brown.
 
+### For a batch of gingerbread spice:
+
+* 2 tbsp ground allspice
+* 2 tbsp ground cinnamon
+* 2 tbsp ground ginger
+* 1 tbsp ground cloves
+* 1 tbsp ground nutmeg
+* some ground black pepper
+
 
 ### Source:
 
