@@ -1,4 +1,6 @@
-# Cabbage soba noodles with cod
+# Japanese-style noodles with fish
+
+## Cabbage soba noodles with cod
 
 ### Ingredients:
 
@@ -32,7 +34,34 @@ Cut the **cod fillets** into square pieces and coat in **flour** seasoned with s
 Divide the cabbage noodles in bowls and top with fried cod. Sprinke with **togarashi** and **onion greens** to taste.
 
 
+## Tuna with udon noodles
+
+* sushi-grade tuna (approx. 1/2 lb per person)
+* sesame seeds
+* cilantro
+* lime zest
+* 1 tbsp mirin
+* 1/2 tbsp sesame oil
+* 1/2 tbsp brown rice vinegar
+* 1/2 tbsp soy sauce
+* carrots (1 per person)
+* udon noodles
+
+Mix the mirin, sesame oil, vinegar and soy sauce. Coat the tuna in the sauce.
+
+Peel the carrots, then slice into ribbons using the vegetable peeler.
+
+Boil the udon according to package instructions, then rinse under cold water and set aside.
+
+In a large pan, fry the tuna quickly, a few minutes per side. Aim for a nice sear, but not cooked through. Set aside.
+
+Add a little more oil to the pan, if needed, and add in the udon and carrots. Pour in any remaining marinade. Cook for a few minutes. While those cook, slice the tuna.
+
+Divide the noodles on serving plates, sprinkle with lime zest, cilantro and sesame seeds. Place some tuna on top and serve.
+
+
 ### Source:
 
 [Blue Apron](https://www.blueapron.com/recipes/crispy-cod-yuzu-shoyu-soba-with-napa-cabbage)
+[Turntable Kitchen](https://www.turntablekitchen.com/recipes/sesame-crusted-tuna-on-a-bed-of-udon-noodles-this-bustle/)
 

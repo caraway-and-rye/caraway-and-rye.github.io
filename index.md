@@ -72,7 +72,7 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Shrimp & mushroom green curry](recipes/asian/shrimp-green-curry)
 
-[Cabbage soba noodles with cod](recipes/asian/cod-cabbage-soba-noodles)
+[Japanese-style noodles with fish](recipes/asian/japanese-noodles-and-fish)
 
 
 ****
