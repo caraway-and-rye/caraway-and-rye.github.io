@@ -22,6 +22,8 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Chicken & leek pie](recipes/european/chicken-leek-pie)
 
+[Pulled pork](recipes/european/pulled-pork)
+
 
 ##### Sides
 
