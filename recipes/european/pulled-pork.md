@@ -41,3 +41,5 @@ Serve with coleslaw, bread, extra BBQ sauce and the meat sauce.
 ### Source:
 
 [Bad Beast Barbecue Youtube channel](https://www.youtube.com/watch?v=gLjqwzUmFN0)
+
+[Binging with Babish Youtube channel](https://www.youtube.com/watch?v=_SObOsXrDRc)
