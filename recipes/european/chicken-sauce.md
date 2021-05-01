@@ -2,6 +2,7 @@
 
 ### Ingredients:
 * boneless, skinless chicken breast
+* oil and butter
 * shallot (1 for every 2 chicken breasts)
 * garlic cloves (3-4 for every 2 chicken breasts)
 * flour
@@ -22,7 +23,9 @@ Slice the chicken breasts horizontally to make 2 thinner pieces out of each brea
 
 Put the **stock** to boil in a small pan so it's hot when the chicken is cooked.
 
-Salt and pepper the **chicken** on each side and fry on medium heat in a little oil until golden on both sides. Cook in batches if needed. Remove from the pan and add the **shallot and garlic** in its place. Fry until translucent. Sprinkle some **flour** and cook a minute. Add a little hot soup, stirring. Add slowly all the soup stirring to break any clumps. Bring the sauce to a boil and cook for 1-2 minutes. Add **cream or milk** and boil another minute. Check the sauce for seasoning and add some **extra pepper**. Return the chicken pieces to the pan and thourougly reheat.
+Salt and pepper the **chicken** on each side and fry on medium heat in a little **oil** until golden on both sides. Cook in batches if needed. Remove from the pan and set aside. 
+
+Add a little **butter** to the pan and let it melt then add the **shallot and garlic** in its place. Fry until translucent. Sprinkle some **flour** and cook a minute. Add a little hot soup, stirring. Add slowly all the soup stirring to break any clumps. Bring the sauce to a boil and cook for 1-2 minutes. Add **cream or milk** and boil another minute. Check the sauce for seasoning and add some **extra pepper**. Return the chicken pieces to the pan and thourougly reheat.
 
 Serve with bread and salad.
 
