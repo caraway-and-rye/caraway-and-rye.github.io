@@ -18,9 +18,11 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 [Quick "Thanksgiving" chicken](recipes/european/quick-thanksgiving-chicken)
 
-[Swedish meatballs](recipes/european/swedish-meatballs)
-
 [Chicken & leek pie](recipes/european/chicken-leek-pie)
+
+[Chicken with sauce](recipes/european/chicken-sauce)
+
+[Swedish meatballs](recipes/european/swedish-meatballs)
 
 [Pulled pork](recipes/european/pulled-pork)
 
