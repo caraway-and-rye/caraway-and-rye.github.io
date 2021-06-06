@@ -1,6 +1,6 @@
 # Food journal
 
-What should we have for dinner? How about one of the following:
+What should we have for dinner? How about something we had in the past?
 
 ****
 
@@ -9,7 +9,7 @@ What should we have for dinner? How about one of the following:
 - 1: Pan fried halibut, roasted cauliflower with lemon zest and parsley and tomato/avocado salad
 - 2: Pork fried rice with tomato and avocado salad
 - 3: Pork burger (with Italian herbs and smoked paprika), roasted potato wedges with italian herbs, garlic mayo and salad
-- 4: Pan fried duck breast, potato mash and salad (leaves, tomato
+- 4: Pan fried duck breast, potato mash and salad (leaves, tomato, cucumber, carrot, avocado)
 - 5: Beer battered pollock with french fries and garlic mayo
 - 6: Beef wellington with salad
 
