@@ -6,13 +6,45 @@ What should we have for dinner? How about one of the following:
 
 ## June 2021
 
-- 1:
-- 2:
+- 1: Pan fried halibut, roasted cauliflower with lemon zest and parsley and tomato/avocado salad
+- 2: Pork fried rice with tomato and avocado salad
 - 3: Pork burger (with Italian herbs and smoked paprika), roasted potato wedges with italian herbs, garlic mayo and salad
-- 4: 
+- 4: Pan fried duck breast, potato mash and salad (leaves, tomato
 - 5: Beer battered pollock with french fries and garlic mayo
 - 6: Beef wellington with salad
 
+****
+
+## May 2021
+
+- 23: Steaks wrapped in bacon, mashed potatoes with chives, broccoli and tomato salad
+
+****
+
+## April 2021
+
+- 1: Udon noodles with tuna and tomato salad
+- 2: Steamed mussles. Halibut poached in brown butter with spaghetti
+- 3: Bolognese pasta with arugula salad
+- 4: Takeaway (Chinese from Hang Dao)
+- 5: Steak and ale pie with green peas
+- 6: Lobster with tomato sauce and spaghetti
+- 7: Pasta carbonara
+- 8: Mackerel curry and roti (me). Seafood pasta (Russ)
+- 9: Takeaway (sushi)
+- 10: Veal schnitzel with salad
+- 11: Guanciale pasta
+- 12: Burger with salad and broccoli. Strawberries and cream.
+- 13: Lasagna
+- 14: Bread, cream cheese, red onion (me). Strawberries.
+- 15: Surf and turf with shrimp and broccoli (Russ). Soft boiled egg, toast and broccoli (me).
+- 16: Whole seabass with lemon, butter, garlic & onion baked in parcel, potato mash and salad
+- 17: Prison sauce with paccheri and arugula salad
+- 18: Prison sauce with paccheri
+- 19: Chicken curry, rice and salad (pepper, cucumber, onion)
+- 20: Fried rice
+- 21: Guanciale pasta
+- 22: Burger with roasted potato, pickled onions and greens with thousand island dressing
 
 ****
 
