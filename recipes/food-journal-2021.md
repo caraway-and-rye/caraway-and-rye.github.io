@@ -12,6 +12,7 @@ What should we have for dinner? How about something we had in the past?
 - 4: Pan fried duck breast, potato mash and salad (leaves, tomato, cucumber, carrot, avocado)
 - 5: Beer battered pollock with french fries and garlic mayo
 - 6: Beef wellington with salad
+- 7: Homemade pizza with salami and mushroom/tallegio 
 
 ****
 
