@@ -13,6 +13,7 @@ What should we have for dinner? How about something we had in the past?
 - 5: Beer battered pollock with french fries and garlic mayo
 - 6: Beef wellington with salad
 - 7: Homemade pizza with salami and mushroom/tallegio 
+- 8: Pan-fried salmon filet, rice and salad (iceberg lettuce, tomato, carrot, cucumber) (lunch). Spaghetti carbonara (dinner)
 
 ****
 
