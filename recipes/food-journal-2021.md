@@ -14,6 +14,7 @@ What should we have for dinner? How about something we had in the past?
 - 6: Beef wellington with salad
 - 7: Homemade pizza with salami and mushroom/tallegio 
 - 8: Pan-fried salmon filet, rice and salad (iceberg lettuce, tomato, carrot, cucumber) (lunch). Spaghetti carbonara (dinner)
+- 9: Chicken fajitas with soft wheat wrappers, shredded iceberg lettuce, tomato, avocado, salsa, pickled jalapenos, sour cream and cilantro
 
 ****
 
