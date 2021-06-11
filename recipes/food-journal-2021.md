@@ -16,6 +16,7 @@ What should we have for dinner? How about something we had in the past?
 - 8: Pan-fried salmon filet, rice and salad (iceberg lettuce, tomato, carrot, cucumber) (lunch). Spaghetti carbonara (dinner)
 - 9: Chicken fajitas with soft wheat wrappers, shredded iceberg lettuce, tomato, avocado, salsa, pickled jalapenos, sour cream and cilantro
 - 10: [Chinese-style mussels](https://schoolofwok.co.uk/tips-and-recipes/chilli-and-garlic-mussels), pan fried tuna steak and salad (baby gem, iceberg, cucumber, tomato, carrot, green onion). Strawberries and chocolate chip cookies.
+- 11: Pan fried salmon with salad (baby gem, tomato, cucumber, carrot, green onion, radish) (lunch). Chicken marsala, rice and arugula salad with balsamic vinegar (dinner). Strawberries macerated with whiskey and chocolate chip cookies.
 
 ****
 
