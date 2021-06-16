@@ -21,6 +21,7 @@ What should we have for dinner? How about something we had in the past?
 - 13: Takeaway dumplings and ramen from food truck in Herbert Park (lunch). Takeaway chicken wings and pizza from Brewdog (dinner).
 - 14: Chicken soup with tortelinni (lunch). Whole baked John Dory, pan fried hake fillet, roasted potatoes and salad (tomatoes, cucumber, carrot, baby gem lettuce, radishes, green onion) (dinner). Chocolate chip cookies.
 - 15: Salad (leaves, cucumber, carrot, avocado) and leftover fish, cheese and bread (lunch). Duck breasts, string beans, roasted potatoes and garlic mayo (dinner). Chocolate chip cookies.
+- 16: Iberico presa pork steak, roasted potatoes with thyme, [compound butter](https://www.bascofinefoods.com/spanish-recipes/presa-iberica-with-cafe-de-paris-butter/) and cucumber salad
 
 ****
 
