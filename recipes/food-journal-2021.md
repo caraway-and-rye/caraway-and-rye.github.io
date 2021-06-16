@@ -18,6 +18,9 @@ What should we have for dinner? How about something we had in the past?
 - 10: [Chinese-style mussels](https://schoolofwok.co.uk/tips-and-recipes/chilli-and-garlic-mussels), pan fried tuna steak and salad (baby gem, iceberg, cucumber, tomato, carrot, green onion). Strawberries and chocolate chip cookies.
 - 11: Pan fried salmon with salad (baby gem, tomato, cucumber, carrot, green onion, radish) (lunch). Chicken marsala, rice and arugula salad with balsamic vinegar (dinner). Strawberries macerated with whiskey and chocolate chip cookies.
 - 12: Scones with vanilla whipped cream and jam (breakfast). Guanciale pasta and arugula salad with balsamic vinegar (dinner). Chocolate chip cookies.
+- 13: Takeaway dumplings and ramen from food truck in Herbert Park (lunch). Takeaway chicken wings and pizza from Brewdog (dinner).
+- 14: Chicken soup with tortelinni (lunch). Whole baked John Dory, pan fried hake fillet, roasted potatoes and salad (tomatoes, cucumber, carrot, baby gem lettuce, radishes, green onion) (dinner). Chocolate chip cookies.
+- 15: Salad (leaves, cucumber, carrot, avocado) and leftover fish, cheese and bread (lunch). Duck breasts, string beans, roasted potatoes and garlic mayo (dinner). Chocolate chip cookies.
 
 ****
 
