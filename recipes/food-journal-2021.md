@@ -22,6 +22,9 @@ What should we have for dinner? How about something we had in the past?
 - 14: Chicken soup with tortelinni (lunch). Whole baked John Dory, pan fried hake fillet, roasted potatoes and salad (tomatoes, cucumber, carrot, baby gem lettuce, radishes, green onion) (dinner). Chocolate chip cookies.
 - 15: Salad (leaves, cucumber, carrot, avocado) and leftover fish, cheese and bread (lunch). Duck breasts, string beans, roasted potatoes and garlic mayo (dinner). Chocolate chip cookies.
 - 16: Iberico presa pork steak, roasted potatoes with thyme, [compound butter](https://www.bascofinefoods.com/spanish-recipes/presa-iberica-with-cafe-de-paris-butter/) and cucumber salad
+- 17: Guanciale pasta
+- 18: Lobster roll kit from Klaw (lobster meat, chive, parsley, Tabasco and yuzu mayo on a fluffy bun split and toasted in butter until golden), tortilla chips with Old Bay seasoning and Guiness.
+- 19: Sausage and mushrooms with penne/toast.                                                   
 
 ****
 
