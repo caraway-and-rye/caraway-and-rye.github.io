@@ -29,7 +29,8 @@ What should we have for dinner? How about something we had in the past?
 - 21:
 - 22: Takeaway wings and pizza from Brewdog
 - 23: Monkfish and shrimp fried rice (carrot, red onion, green peas, green onion)
-- 24: Guanciale pasta with arugula salad                                                   
+- 24: Guanciale pasta with arugula salad      
+- 25: Roasted chicken, roasted vegetables (carrot, onion, potato, garlic) and salad (butter lettuce, cucumber, tomato)                                             
 
 ****
 
