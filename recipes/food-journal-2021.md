@@ -32,7 +32,8 @@ What should we have for dinner? How about something we had in the past?
 - 24: Guanciale pasta with arugula salad      
 - 25: Roasted chicken, roasted vegetables (carrot, onion, potato, garlic) and salad (butter lettuce, cucumber, tomato)   
 - 26: Steak, roasted potatoes and salad (butter lettuce, tomato, cucumber)
-- 27: Pan fried hake, dill sauce (shallot, reduced white wine, cream, dill, flour), mashed potatoes with chives and arugula-tomato salad with balsamic vinegar.                                        
+- 27: Pan fried hake, dill sauce (shallot, reduced white wine, cream, dill, flour), mashed potatoes with chives and arugula-tomato salad with balsamic vinegar.   
+- 28: Spaghetti carbonara                                     
 
 ****
 
