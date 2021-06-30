@@ -30,10 +30,10 @@ What should we have for dinner? How about something we had in the past?
 - 24: Guanciale pasta with arugula salad      
 - 25: Roasted chicken, roasted vegetables (carrot, onion, potato, garlic) and salad (butter lettuce, cucumber, tomato)   
 - 26: Steak, roasted potatoes and salad (butter lettuce, tomato, cucumber)
-- 27: Pan fried hake, dill sauce (shallot, reduced white wine, cream, dill, flour), mashed potatoes with chives and arugula-tomato salad with balsamic vinegar.   
+- 27: Pan fried hake, [dill sauce](https://sexycuisine.wordpress.com/2014/02/04/baked-hake-with-a-creamy-dill-sauce/) (shallot, reduced white wine, cream, dill, flour), mashed potatoes with chives and arugula-tomato salad with balsamic vinegar.   
 - 28: Spaghetti carbonara
 - 29: Takeaway from Brewdog: chicken wings and pizza
-- 30: Pan fried boneless pork chop, pan fried apple wedges, roasted potatoes with paprika and rosemary, carrot slaw (grated carrot, apple chunks, raisins, mayo) and broccoli.                                     
+- 30: Pan fried boneless pork chop, pan fried apple wedges, roasted potatoes with paprika and rosemary, [carrot slaw](https://www.simplyrecipes.com/recipes/classic_carrot_salad/) (grated carrot, apple chunks, raisins, mayo) and broccoli.                                     
 
 ****
 
