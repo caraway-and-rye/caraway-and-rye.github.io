@@ -25,8 +25,6 @@ What should we have for dinner? How about something we had in the past?
 - 17: Guanciale pasta
 - 18: Lobster roll kit from Klaw (lobster meat, chive, parsley, Tabasco and yuzu mayo on a fluffy bun split and toasted in butter until golden), pickles, tortilla chips with Old Bay seasoning and Guiness.
 - 19: Sausage and mushrooms with penne/toast.
-- 20:
-- 21:
 - 22: Takeaway wings and pizza from Brewdog
 - 23: Monkfish and shrimp fried rice (carrot, red onion, green peas, green onion)
 - 24: Guanciale pasta with arugula salad      
