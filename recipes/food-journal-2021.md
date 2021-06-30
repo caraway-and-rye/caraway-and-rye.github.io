@@ -23,7 +23,7 @@ What should we have for dinner? How about something we had in the past?
 - 15: Salad (leaves, cucumber, carrot, avocado) and leftover fish, cheese and bread (lunch). Duck breasts, string beans, roasted potatoes and garlic mayo (dinner). Chocolate chip cookies.
 - 16: Iberico presa pork steak, roasted potatoes with thyme, [compound butter](https://www.bascofinefoods.com/spanish-recipes/presa-iberica-with-cafe-de-paris-butter/) and cucumber salad
 - 17: Guanciale pasta
-- 18: Lobster roll kit from Klaw (lobster meat, chive, parsley, Tabasco and yuzu mayo on a fluffy bun split and toasted in butter until golden), tortilla chips with Old Bay seasoning and Guiness.
+- 18: Lobster roll kit from Klaw (lobster meat, chive, parsley, Tabasco and yuzu mayo on a fluffy bun split and toasted in butter until golden), pickles, tortilla chips with Old Bay seasoning and Guiness.
 - 19: Sausage and mushrooms with penne/toast.
 - 20:
 - 21:
@@ -33,7 +33,9 @@ What should we have for dinner? How about something we had in the past?
 - 25: Roasted chicken, roasted vegetables (carrot, onion, potato, garlic) and salad (butter lettuce, cucumber, tomato)   
 - 26: Steak, roasted potatoes and salad (butter lettuce, tomato, cucumber)
 - 27: Pan fried hake, dill sauce (shallot, reduced white wine, cream, dill, flour), mashed potatoes with chives and arugula-tomato salad with balsamic vinegar.   
-- 28: Spaghetti carbonara                                     
+- 28: Spaghetti carbonara
+- 29: Takeaway from Brewdog: chicken wings and pizza
+- 30: Pan fried boneless pork chop, pan fried apple wedges, roasted potatoes with paprika and rosemary, carrot slaw (grated carrot, apple chunks, raisins, mayo) and broccoli.                                     
 
 ****
 
