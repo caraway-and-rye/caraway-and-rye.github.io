@@ -4,6 +4,19 @@ What should we have for dinner? How about something we had in the past?
 
 ****
 
+## July 2021
+
+Breakfast:
+- 1: Pain au chocolat (puff pastry, chocolate chips, egg wash)
+
+Lunch:
+- 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
+
+Dinner:
+- 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream.
+
+****
+
 ## June 2021
 
 - 1: Pan fried halibut, roasted cauliflower with lemon zest and parsley and tomato/avocado salad
