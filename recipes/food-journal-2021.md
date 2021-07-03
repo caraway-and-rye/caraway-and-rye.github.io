@@ -9,14 +9,17 @@ What should we have for dinner? How about something we had in the past?
 Breakfast:
 - 1: Pain au chocolat (puff pastry, chocolate chips, egg wash)
 - 2: Leftover pain au chocolat
+- 3: Leftover pain au chocolat
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
 - 2: Bagel, smoked salmon, cream cheese, dill, red onion. Leftover asparagus parcel
+- 3: ?
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
-- 2: Spaghetti bolognese with salad (mixed greens, cucumber, tomato, carrot)
+- 2: Penne bolognese with salad (mixed greens, cucumber, tomato, carrot, avocado)
+- 3: ?
 
 ****
 
