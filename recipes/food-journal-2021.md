@@ -16,13 +16,13 @@ Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
 - 2: Bagel, smoked salmon, cream cheese, dill, red onion. Leftover asparagus parcel
 - 3: Bagel, smoked salmon, cream cheese, dill, radishes, grreen onions (me). Peanut butter toast (Russ).
-- 4: Sausage roll from Bread 41 (Russ)
+- 4: Bagel with butter, bresaola, cheese and lettuce (me). Sausage roll from Bread 41 (Russ)
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
 - 2: Penne bolognese with salad (mixed greens, cucumber, tomato, carrot, avocado)
 - 3: Beef stew (beef, carrot, mushrooms, potato, celery, thyme, chopped tomatoes) with salad (mixed leaves, cucumber, avocado, tomatoes). Peach and strawberry salad.
-- 4: Lasagna with salad
+- 4: Lasagna with salad (lettuce, tomato, basil, balsamic vinegar)
 
 ****
 
