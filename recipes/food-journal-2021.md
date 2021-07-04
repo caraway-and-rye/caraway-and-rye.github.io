@@ -8,18 +8,21 @@ What should we have for dinner? How about something we had in the past?
 
 Breakfast:
 - 1: Pain au chocolat (puff pastry, chocolate chips, egg wash)
-- 2: Leftover pain au chocolat
-- 3: Leftover pain au chocolat
+- 2: Leftover pain au chocolat (me)
+- 3: Leftover pain au chocolat (me)
+- 4: Bagel, smoked salmon, cream cheese, dill, radishes (me). Peanut butter toast (Russ).
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
 - 2: Bagel, smoked salmon, cream cheese, dill, red onion. Leftover asparagus parcel
-- 3: ?
+- 3: Bagel, smoked salmon, cream cheese, dill, radishes, grreen onions (me). Peanut butter toast (Russ).
+- 4: Sausage roll from Bread 41 (Russ)
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
 - 2: Penne bolognese with salad (mixed greens, cucumber, tomato, carrot, avocado)
-- 3: ?
+- 3: Beef stew (beef, carrot, mushrooms, potato, celery, thyme, chopped tomatoes) with salad (mixed leaves, cucumber, avocado, tomatoes). Peach and strawberry salad.
+- 4: Lasagna with salad
 
 ****
 
