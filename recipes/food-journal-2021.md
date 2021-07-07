@@ -22,7 +22,7 @@ Lunch:
 - 4: Bagel with butter, bresaola, cheese and lettuce (me). Sausage roll from Bread 41 (Russ)
 - 5: Sandwich with pork bresaola, cheese and lettuce
 - 6: Sandwich with pork bresaola and porchetta, cheese and lettuce
-- 7:
+- 7: Hot dog with baked beans and mustard
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -31,6 +31,7 @@ Dinner:
 - 4: Lasagna with salad (lettuce, tomato, basil, balsamic vinegar)
 - 5: Leftover lasagna with salad (lettuce, cucumber)
 - 6: Guanciale pasta
+- 7: 
 
 ****
 
