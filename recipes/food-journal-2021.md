@@ -31,7 +31,7 @@ Dinner:
 - 4: Lasagna with salad (lettuce, tomato, basil, balsamic vinegar)
 - 5: Leftover lasagna with salad (lettuce, cucumber)
 - 6: Guanciale pasta
-- 7: 
+- 7: [Masoor dal](/recipes/indian/masoor-dal), [carrots and peas](recipes/indian/carrots-and-peas) and rice
 
 ****
 
