@@ -10,10 +10,11 @@ Breakfast:
 - 1: Pain au chocolat (puff pastry, chocolate chips, egg wash)
 - 2: Leftover pain au chocolat (me)
 - 3: Leftover pain au chocolat (me)
-- 4: Bagel, smoked salmon, cream cheese, dill, radishes (me). Peanut butter toast (Russ).
-- 5: Oats with blueberry jam (me).
-- 6: Oats with blueberry jam (me).
-- 7: Oats with blueberry jam (me).
+- 4: Bagel, smoked salmon, cream cheese, dill, radishes (me). Peanut butter toast (Russ)
+- 5: Oats with blueberry jam (me)
+- 6: Oats with blueberry jam (me)
+- 7: Oats with blueberry jam (me)
+- 8: Toast with butter and blueberry jam (me)
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
@@ -23,6 +24,7 @@ Lunch:
 - 5: Sandwich with pork bresaola, cheese and lettuce
 - 6: Sandwich with pork bresaola and porchetta, cheese and lettuce
 - 7: Hot dog with baked beans and mustard
+- 8: ?
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -32,6 +34,7 @@ Dinner:
 - 5: Leftover lasagna with salad (lettuce, cucumber)
 - 6: Guanciale pasta
 - 7: [Masoor dal](/recipes/indian/masoor-dal), [carrots and peas](recipes/indian/carrots-and-peas) and rice
+- 8: ?
 
 ****
 
