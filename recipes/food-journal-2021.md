@@ -11,18 +11,27 @@ Breakfast:
 - 2: Leftover pain au chocolat (me)
 - 3: Leftover pain au chocolat (me)
 - 4: Bagel, smoked salmon, cream cheese, dill, radishes (me). Peanut butter toast (Russ).
+- 5: Oats with blueberry jam (me).
+- 6: Oats with blueberry jam (me).
+- 7: Oats with blueberry jam (me).
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
 - 2: Bagel, smoked salmon, cream cheese, dill, red onion. Leftover asparagus parcel
 - 3: Bagel, smoked salmon, cream cheese, dill, radishes, grreen onions (me). Peanut butter toast (Russ).
 - 4: Bagel with butter, bresaola, cheese and lettuce (me). Sausage roll from Bread 41 (Russ)
+- 5: Sandwich with pork bresaola, cheese and lettuce
+- 6: Sandwich with pork bresaola and porchetta, cheese and lettuce
+- 7: Hot dog with baked beans and mustard
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
 - 2: Penne bolognese with salad (mixed greens, cucumber, tomato, carrot, avocado)
 - 3: Beef stew (beef, carrot, mushrooms, potato, celery, thyme, chopped tomatoes) with salad (mixed leaves, cucumber, avocado, tomatoes). Peach and strawberry salad.
 - 4: Lasagna with salad (lettuce, tomato, basil, balsamic vinegar)
+- 5: Leftover lasagna with salad (lettuce, cucumber)
+- 6: Guanciale pasta
+- 7: [Masoor dal](/recipes/indian/masoor-dal), [carrots and peas](recipes/indian/carrots-and-peas) and rice
 
 ****
 
