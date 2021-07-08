@@ -158,6 +158,7 @@ See also the [food log](recipes/food-journal-2021) of what we had for the main m
 ****
 
 ## Cakes
+#### Sweet stuff that goes in the tin and is best eaten using a plate and fork
 
 [Carrot cake](recipes/cakes/carrot-cake)
 
@@ -177,6 +178,7 @@ See also the [food log](recipes/food-journal-2021) of what we had for the main m
 ****
 
 ## Biscuits
+#### Sweet stuff that goes in the tin and is best eaten with tea
 
 [Dried fruit biscuits](recipes/biscuits/dried-fruit-biscuits)
 
@@ -186,10 +188,13 @@ See also the [food log](recipes/food-journal-2021) of what we had for the main m
 
 [Thumbprint cookies](recipes/biscuits/thumbprint-cookies)
 
+[Jam biscuits](recipes/biscuits/jam-biscuits)
+
 
 ****
 
 ## Desserts
+#### Sweet stuff that is kept in the fridge and/or eaten warm
 
 [Tiramisu](recipes/italian/tiramisu)
 
