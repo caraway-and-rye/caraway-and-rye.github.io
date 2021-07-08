@@ -1,8 +1,6 @@
 ## About
 
-Welcome to my collection of recipes I considered worth saving from the depths of The Internet.
-
-If this was 30 years ago, it would have taken the shape of a notebook, started neatly, and ending up stuffed with recipes on random bits of paper I never got around to writing in the notebook. It would also be food stained with the corners chewed by the cutest kitten ever.
+Welcome to the collection of recipes I considered worth saving from the depths of The Internet.
 
 
 ### Markdown cheat sheet
