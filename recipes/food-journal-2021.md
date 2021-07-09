@@ -15,6 +15,7 @@ Breakfast:
 - 6: Oats with blueberry jam (me)
 - 7: Oats with blueberry jam (me)
 - 8: Toast with butter and blueberry jam (me)
+- 9: Scones with butter and blueberry-raspberry / strawberry jam 
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
@@ -25,6 +26,7 @@ Lunch:
 - 6: Sandwich with pork bresaola and porchetta, cheese and lettuce
 - 7: Hot dog with baked beans and mustard
 - 8: Takeaway burger from Bunsen Burgers
+- 9: Leftover lentils, peas and carrots with baby gem salad (me). Pasta with sauce from a jar and baby gem salad (Russ)
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -34,7 +36,8 @@ Dinner:
 - 5: Leftover lasagna with salad (lettuce, cucumber)
 - 6: Guanciale pasta
 - 7: [Masoor dal](/recipes/indian/masoor-dal), [carrots and peas](recipes/indian/carrots-and-peas) and rice
-- 8: Takeaway sushi
+- 8: Takeaway sushi from Tokio Kitchen
+- 9: Fried fish in buttermilk batter, roasted potato edges, mushy peas, tartar sauce and baby gem salad
 
 ****
 
