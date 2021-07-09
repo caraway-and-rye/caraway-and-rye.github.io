@@ -28,6 +28,8 @@ See also the [food log](recipes/food-journal-2021) of what we had for the main m
 
 [Pulled pork](recipes/european/pulled-pork)
 
+[Fried meat (fish / chicken / beef / pork)](recipes/european/fried-meat)
+
 
 ##### Sides
 
