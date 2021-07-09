@@ -37,7 +37,7 @@ Dinner:
 - 6: Guanciale pasta
 - 7: [Masoor dal](/recipes/indian/masoor-dal), [carrots and peas](recipes/indian/carrots-and-peas) and rice
 - 8: Takeaway sushi from Tokio Kitchen
-- 9: Fried fish in buttermilk batter, roasted potato edges, mushy peas, tartar sauce and baby gem salad
+- 9: [Fried fish in buttermilk batter](recipes/european/fried-meat), roasted potato edges, mushy peas, tartar sauce and baby gem salad
 
 ****
 
