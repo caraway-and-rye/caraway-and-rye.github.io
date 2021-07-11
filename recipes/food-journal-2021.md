@@ -10,10 +10,14 @@ Breakfast:
 - 1: Pain au chocolat (puff pastry, chocolate chips, egg wash)
 - 2: Leftover pain au chocolat (me)
 - 3: Leftover pain au chocolat (me)
-- 4: Bagel, smoked salmon, cream cheese, dill, radishes (me). Peanut butter toast (Russ).
-- 5: Oats with blueberry jam (me).
-- 6: Oats with blueberry jam (me).
-- 7: Oats with blueberry jam (me).
+- 4: Bagel, smoked salmon, cream cheese, dill, radishes (me). Peanut butter toast (Russ)
+- 5: Oats with blueberry jam (me)
+- 6: Oats with blueberry jam (me)
+- 7: Oats with blueberry jam (me)
+- 8: Toast with butter and blueberry jam (me)
+- 9: Scones with butter and blueberry-raspberry / strawberry jam 
+- 10: A couple shortbread biscuits from Tesco.
+- 11: Oats with blueberry-raspberry jam (me)
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
@@ -23,6 +27,10 @@ Lunch:
 - 5: Sandwich with pork bresaola, cheese and lettuce
 - 6: Sandwich with pork bresaola and porchetta, cheese and lettuce
 - 7: Hot dog with baked beans and mustard
+- 8: Takeaway burger from Bunsen Burgers
+- 9: Leftover lentils, peas and carrots with baby gem salad (me). Pasta with sauce from a jar and baby gem salad (Russ)
+- 10: Leftover lentils, peas and carrots with baby gem salad (me).
+- 11: Bread, cheese (smoked gouda and chedar), red pepper 
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -32,6 +40,10 @@ Dinner:
 - 5: Leftover lasagna with salad (lettuce, cucumber)
 - 6: Guanciale pasta
 - 7: [Masoor dal](/recipes/indian/masoor-dal), [carrots and peas](recipes/indian/carrots-and-peas) and rice
+- 8: Takeaway sushi from Tokio Kitchen
+- 9: [Fried fish in buttermilk batter](recipes/european/fried-meat), roasted potato edges, mushy peas, tartar sauce and baby gem salad
+- 10: Pasta with sauce from a jar (Russ). Leftover lentils, carrots and peas + a tin of sardines in brine (me)
+- 11: Risotto with shrimp and mushrooms. Small tomato salad.
 
 ****
 
