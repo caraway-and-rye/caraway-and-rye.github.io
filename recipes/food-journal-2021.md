@@ -18,6 +18,10 @@ Breakfast:
 - 9: Scones with butter and blueberry-raspberry / strawberry jam 
 - 10: A couple shortbread biscuits from Tesco.
 - 11: Oats with blueberry-raspberry jam (me)
+- 12:
+- 13:
+- 14: Toast with butter and blueberry jam
+- 15: Soda bread with rolled oats and raisins. Butter and honey
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
@@ -31,6 +35,10 @@ Lunch:
 - 9: Leftover lentils, peas and carrots with baby gem salad (me). Pasta with sauce from a jar and baby gem salad (Russ)
 - 10: Leftover lentils, peas and carrots with baby gem salad (me).
 - 11: Bread, cheese (smoked gouda and chedar), red pepper 
+- 12:
+- 13:
+- 14:
+- 15:
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -44,6 +52,10 @@ Dinner:
 - 9: [Fried fish in buttermilk batter](recipes/european/fried-meat), roasted potato edges, mushy peas, tartar sauce and baby gem salad
 - 10: Pasta with sauce from a jar (Russ). Leftover lentils, carrots and peas + a tin of sardines in brine (me)
 - 11: Risotto with shrimp and mushrooms. Small tomato salad.
+- 12: ???. Graham biscuit, strawberries and vanilla whipped cream.
+- 13: Steak wrapped in bacon. Roasted potato wedges. Romanian-style green beans (green beans fried with garlic, boiled and finished with parsley and dill). Ben & Jerry's chocolate icecream with warm fudge sauce and graham crumb.
+- 14: Rigatoni with prison sauce. Salad (lettuce, cucumber, tomato). Chocolate cake with graham frosting from Milkbar cookbook
+- 15: Baked rigatoni with leftover prison sauce and mozarella. Tomato salad with basil and balsamic vinegar.
 
 ****
 
