@@ -22,6 +22,7 @@ Breakfast:
 - 13:
 - 14: Toast with butter and blueberry jam
 - 15: Soda bread with rolled oats and raisins. Butter and honey
+- 16: Leftover soda bread with butter and honey
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
@@ -39,6 +40,7 @@ Lunch:
 - 13:
 - 14:
 - 15:
+- 16: Toast with sardines in tomato sauce
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -56,6 +58,7 @@ Dinner:
 - 13: Steak wrapped in bacon. Roasted potato wedges. Romanian-style green beans (green beans fried with garlic, boiled and finished with parsley and dill). Ben & Jerry's chocolate icecream with warm fudge sauce and graham crumb.
 - 14: Rigatoni with prison sauce. Salad (lettuce, cucumber, tomato). Chocolate cake with graham frosting from Milkbar cookbook
 - 15: Baked rigatoni with leftover prison sauce and mozarella. Tomato salad with basil and balsamic vinegar.
+- 16: [Fried chicken breast strips with buttermilk crust](recipes/european/fried-meat), hot buffalo sauce, tenderstem broccoli, roasted potato wedges and salad (radish with champagne vinegar for me, tomato with balsamic for Russ)
 
 ****
 
