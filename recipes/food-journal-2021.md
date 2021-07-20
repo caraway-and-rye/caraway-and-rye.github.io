@@ -23,6 +23,10 @@ Breakfast:
 - 14: Toast with butter and blueberry jam
 - 15: Soda bread with rolled oats and raisins. Butter and honey
 - 16: Leftover soda bread with butter and honey
+- 17:
+- 18:
+- 19: Toasted leftover bun with butter and raspberry-blueberry jam
+- 20: Toasted leftover bun with butter and blueberry jam
 
 Lunch:
 - 1: Shrimp Louie salad (cooked shrimp, red lettuce, tomatoes, avocado, hard boiled eggs, Thousand Island dressing). [Cream cheese, salmon and asparagus parcels](https://www.bbcgoodfood.com/recipes/creamy-asparagus-puffs)
@@ -41,6 +45,10 @@ Lunch:
 - 14:
 - 15:
 - 16: Toast with sardines in tomato sauce
+- 17:
+- 18:
+- 19: Toasted leftover bun with butter, Italian cheese, mortadela/prosciuto cotto, tomato slices and home-grown lettuce.
+- 20: Toasted leftover bun with butter, Italian cheese, speck and home-grown lettuce.
 
 Dinner:
 - 1: Pan fried salmon, dill sauce, aglio-olio farfallone and strawberry-arugula salad (arugula, strawberries, balsamic vinegar, olive oil, salt, pepper). strawberries and ice cream
@@ -59,6 +67,10 @@ Dinner:
 - 14: Rigatoni with prison sauce. Salad (lettuce, cucumber, tomato). Chocolate cake with graham frosting from Milkbar cookbook
 - 15: Baked rigatoni with leftover prison sauce and mozarella. Tomato salad with basil and balsamic vinegar.
 - 16: [Fried chicken breast strips with buttermilk crust](recipes/european/fried-meat), hot buffalo sauce, tenderstem broccoli, roasted potato wedges and salad (radish with champagne vinegar for me, tomato with balsamic for Russ)
+- 17: Pulled pork, homemade buns, corn cob, radish salad, tomato-cucumber salad.
+- 18: Lobster roll with homemade buns, tomato salad and pickles. Madeira cake.
+- 19: Guanciale pasta. Madeira cake with Madeira and vanilla whipped cream
+- 20: Pan fried pork chop, apple slices fried in butter, cabbage with juniper and caraway, boiled rice and tomato salad. Madeira cake with vanilla whipped cream.
 
 ****
 
