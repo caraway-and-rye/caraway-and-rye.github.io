@@ -71,6 +71,8 @@ Dinner:
 - 18: Lobster roll with homemade buns, tomato salad and pickles. Madeira cake.
 - 19: Guanciale pasta. Madeira cake with Madeira and vanilla whipped cream
 - 20: Pan fried pork chop, apple slices fried in butter, cabbage with juniper and caraway, boiled rice and tomato salad. Madeira cake with vanilla whipped cream.
+- 21: Takeaway indian food from Pickle
+- 22: Homemade pizza
 
 ****
 
