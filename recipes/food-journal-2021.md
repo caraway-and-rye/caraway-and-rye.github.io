@@ -73,6 +73,8 @@ Dinner:
 - 20: Pan fried pork chop, apple slices fried in butter, cabbage with juniper and caraway, boiled rice and tomato salad. Madeira cake with vanilla whipped cream.
 - 21: Takeaway indian food from Pickle
 - 22: Homemade pizza
+- 23: bits and pieces (no dinner was cooked or ordered)
+- 24: Veal schnitzel, penne with arabiata sauce from a jar, tomato-basil-balsamic salad with shaved parmesan. Almost trifle (Madeira cake soaked in Madeira and orange juice, orange supremes, orange custard, vanilla whipped cream)
 
 ****
 
