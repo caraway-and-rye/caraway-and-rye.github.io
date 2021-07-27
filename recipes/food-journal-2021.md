@@ -75,6 +75,9 @@ Dinner:
 - 22: Homemade pizza
 - 23: bits and pieces (no dinner was cooked or ordered)
 - 24: Veal schnitzel, penne with arabiata sauce from a jar, tomato-basil-balsamic salad with shaved parmesan. Almost trifle (Madeira cake soaked in Madeira and orange juice, orange supremes, orange custard, vanilla whipped cream)
+- 25: Steamed salmon fillet, toast and greek salad (tomato, cucumber, red pepper, red onion, oregano, feta)
+- 26: [Fried breaded shrimp](recipes/european/fried-meat) with salad (tomato, cucumber, red pepper, red onion)
+- 27: Bolognese sauce (from the freezer) with papardele rigate and tomato-basil-balsamic salad
 
 ****
 
