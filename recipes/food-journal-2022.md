@@ -2,7 +2,7 @@
 
 What should we have for dinner? How about something we had in the past?
 
-See [previous year][food-journal-2021.md]
+See [previous year](recipes/food-journal-2021)
 
 ****
 
