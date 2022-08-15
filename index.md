@@ -2,7 +2,7 @@
 
 Here's my list of recipes collected from various sources, rewritten and adjusted to my taste.
 
-See also the [food log](recipes/food-journal-2021) of what we had for the main meal.
+See also the [food log](recipes/food-journal-2022) of what we had for the main meal.
 
 
 ****
