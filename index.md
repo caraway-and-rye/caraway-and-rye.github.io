@@ -176,6 +176,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Spiced coffe and date cake](recipes/cakes/spiced-coffee-and-date-cake)
 
+[Muffins](recipes/cakes/muffins)
+
 
 ****
 
