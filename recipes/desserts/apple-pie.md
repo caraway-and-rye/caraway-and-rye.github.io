@@ -31,6 +31,8 @@ Peel the apples, quarter and slice as thinly as possible. Mix with sugar (to tas
 
 Heat the oven to 180 C.
 
+Butter and flour the pie dish. It will help the pie stick less.
+
 Roll the dough between 2 pieces of cling film. Either leave aside a pice or roll much larger than needed and leave the edges thicker so there is enough for the top. Drape over the pie dish, trim the excess, fill with apples and their juice (make sure there is enough flour in there based on how much liquid was released), roll the leftover dough and put a lid on the pie, crimp the edges and make some holes in the top.
 
 If egg was saved, brush the top and sprinkle with some sugar.
@@ -38,6 +40,10 @@ If egg was saved, brush the top and sprinkle with some sugar.
 Bake for 40-45 mins, covering with foil if the edges brown too much. Take out of the oven and let rest for at least 30 mins.
 
 Serve warm with whipped cream, custard or ice cream.
+
+#### Another apple method:
+
+Slice the apples in the pie dish. Add some extra or pile it very high because the apples will reduce. Return the apples to a bowl, sprinkle with the sugar in the recipe and mix well. Let sit while making the dough. When ready to fill the pie, drain all liquid from the apple bowl (no need to squeeze them, just drain whatever can be poured out). Add more sugar, sprinkle spices and enough flour to make a slurry from the liquid remaining on the apples. Fill the pie.
 
 ### Source:
 

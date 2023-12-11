@@ -30,17 +30,19 @@ In a large heat-proof bowl measure the **honey** and **sugar**. Add the **butter
 
 Leave the dough to cool down a little then divide it in 4-5 pieces. Keep them covered in a warm place or else the dough will harden and it will be hard to work with.
 
-Taking one piece at a time, use a rolling pin to make a thin rectangular sheet. Butter the bottom of a biscuit tray and place the rectangle of dough on it, stretching a little to fit. Bake for about 8 mins until it starts to brown.
+Taking one piece at a time, use a rolling pin to make a thin rectangular sheet. Butter the bottom of a biscuit tray and place the rectangle of dough on it, stretching a little to fit. Bake for about 8 mins until it starts to brown. 
 
-While baking the biscuit sheets, make the filling. 
+*Tip. When removing the biscuit from the tray, use a long knife to detach it from the bottom of the tray. Before sliding it off on the stack of biscuits, trim any edges curved down the biscuit tray because the biscuit will harden quickly.*
+
+While baking the biscuit sheets, start making the filling. 
 
 Bring the **milk** with some **sugar** to a boil, then add the **coarse semolina** while whisking continually. Leave to cool for a little, then mix in some **vanilla** essence, the **lemon juice** and **zest**. Let the cooked semolina to cool off completely. Cream the **butter** and then mix in the semolina.
 
-Place a biscuit sheet on a tray, spread with half the semolina filling, then top with another biscuit sheet. Spread with **apricot jam** and top with another biscuit sheet. If you have 2 biscuit sheets left, spread again with apricot jam, and use the remaining semolina as your last layer of filling.
+Place a biscuit sheet on a tray, spread with half the semolina filling, then top with another biscuit sheet. Spread with **apricot jam** and top with another biscuit sheet. Repeat. If you made 5 biscuit sheets, then do a 2nd layer of jam filling.
 
 Leave the cake to soften overnight or until it's soft enough to cut (12-36h depending on how thick the biscuit sheets were and how soon after baking they got filled). Cut the cake in small pieces and serve.
 
 
 ### Source:
 
-My mother's old Romanian cookbook she got soon after her wedding
+My mother's old Romanian cookbook which she got soon after her wedding
