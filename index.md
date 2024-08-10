@@ -16,6 +16,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ##### Mains
 
+[Pressure Cooker Brisket](recipes/european/pressure-cooker-brisket)
+
 [Minced Beef Wellington](recipes/european/minced-beef-wellington)
 
 [Quick "Thanksgiving" chicken](recipes/european/quick-thanksgiving-chicken)
