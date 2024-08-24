@@ -164,6 +164,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 ## Cakes
 #### Sweet stuff that goes in the tin and is best eaten using a plate and fork
 
+[Grand Marnier Cake](recipes/cakes/grand-marnier-cake)
+
 [Carrot cake](recipes/cakes/carrot-cake)
 
 [Lemon pound cake](recipes/cakes/lemon-pound-cake)
