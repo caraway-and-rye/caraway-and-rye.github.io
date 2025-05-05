@@ -146,6 +146,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ## Breads
 
+[Adare Manor Pancakes](recipes/breads/adare-manor-pancakes)
+
 [American pancakes](recipes/breads/american-pancakes)
 
 [New York Pizza Dough](recipes/breads/pizza-dough)
