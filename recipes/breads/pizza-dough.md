@@ -11,7 +11,6 @@
 | 3%    | Olive Oil    |     9g     | <span style="background-color:#fffbea">18g</span>        |     30g     |
 | 0.5%  | Yeast        |     1.5g   | <span style="background-color:#fffbea">3g</span>         |     5g      |
 
-> 💡 _The 600g column is lightly highlighted because it’s the most common batch size._
 
 ## Notes
 
