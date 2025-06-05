@@ -192,6 +192,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 ## Biscuits
 #### Sweet stuff that goes in the tin and is best eaten with tea
 
+[Chocolate sugar cookies](recipes/biscuits/chocolate-sugar-cookies)
+
 [Dried fruit biscuits](recipes/biscuits/dried-fruit-biscuits)
 
 [Spiced oatmeal biscuits](recipes/biscuits/oat-biscuits)
