@@ -1,4 +1,4 @@
-# Chocolate Roll-Out Cookies
+# Chocolate Sugar Cookies
 
 ## Ingredients
 
