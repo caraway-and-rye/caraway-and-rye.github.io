@@ -74,6 +74,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ## East-Asian
 
+[Soy Tare](recipes/asian/soy-tare.md)
+
 [Beef pho](recipes/asian/beef-pho)
 
 [Pot stickers](recipes/asian/pot-stickers)
