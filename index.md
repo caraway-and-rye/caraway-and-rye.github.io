@@ -47,7 +47,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ##### Sausage
 
-[Spicy fennel sausage](recipes/european/hot-italian-sausage)
+[Spicy Fennel Sausage](recipes/european/hot-italian-sausage)
+[Daily Provisions Breakfast Sausage](recipes/dailiy-provisions-sausage)
 
 
 ****
