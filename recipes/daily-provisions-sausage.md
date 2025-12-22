@@ -1,6 +1,7 @@
 # Daily Provisions Breakfast Sausage
 
 ### Ingredients:
+
 | Ingredient | 1 kg Pork Batch | 2.5 kg Pork Batch | 5 kg Pork Batch |
 | :--- | :--- | :--- | :--- |
 | **Pork Butt, ground** | 1000 g | 2500 g | 5000 g |
