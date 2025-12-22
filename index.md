@@ -123,6 +123,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ##### Secondi piatti
 
+[Bolognese](recipes/italian/bolognese)
+
 [Sausages with oregano, mushrooms and olives](recipes/italian/mushroom-sausage-stew)
 
 [Swordfish with mint and potatoes](recipes/italian/swordfish-with-mint-potatoes)
