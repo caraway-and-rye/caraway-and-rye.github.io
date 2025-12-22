@@ -15,9 +15,9 @@ About 12
 | **Celery ribs, finely chopped** | 4-5 | 9 | 22 |
 | **Large carrots, finely chopped** | 2-3 | 4-5 | 11-12 |
 | **Garlic cloves, sliced** | 6 | 12 | 30 |
-| **Tomato paste** | 1 tube | 2 tubes | 5 tubes |
-| **Whole milk** | 250 ml | 500 ml | 1.5 L |
-| **Dry white wine** | 250 ml | 500 ml | 1.5L |
+| **Tomato paste** | 1.5 tubes | 3 tubes | 6 tubes |
+| **Whole milk** | 500 ml | 1L | 2.5 L |
+| **Dry white wine** | 500 ml | 1L | 2.5L |
 | **Salt** | to taste | to taste | to taste |
 
 ### Preparation:
