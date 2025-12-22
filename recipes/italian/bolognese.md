@@ -1,7 +1,10 @@
 # Mario Batali's Ragu Bolognese
 
+### Before You Begin
+Brown the meat while you are prepping the veg. Browning takes an hour at minimum.
+
 ### Serves:
-About 12
+About 6, 12, or 30
 
 ### Ingredients:
 
