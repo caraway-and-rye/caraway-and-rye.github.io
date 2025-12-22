@@ -4,18 +4,20 @@
 About 12
 
 ### Ingredients:
-* 1/2 cup extra virgin olive oil
-* 4 tablespoons (1/4 cup) butter
-* 2 kg veal and pork mix (ground)
-* 300 g pancetta or slab bacon (finely chopped)
-* 4-5 medium onions (finely chopped)
-* 9 ribs celery (finely chopped)
-* 4-5 large carrots (finely chopped)
-* 12 garlic cloves (minced)
-* 2 - 4.5 ounce tubes or 1 - 12 ounce can tomato paste
-* 2 1/4 cups whole milk
-* 2 1/4 cups dry white wine (Sauvignon Blanc or Pinot Grigio)
-* Salt
+| Ingredient | 1 kg Meat Batch | 2 kg Meat Batch | 5 kg Meat Batch |
+| :--- | :--- | :--- | :--- |
+| **Veal and pork mix, ground** | 1000 g | 2000 g | 5000 g |
+| **Pancetta, ground** | 150 g | 300 g | 750 g |
+| **Extra virgin olive oil** | 1/4 cup | 1/2 cup | 1 1/4 cups |
+| **Butter** | 2 tablespoons | 4 tablespoons | 10 tablespoons |
+| **Medium onions, finely chopped** | 2-3 | 4-5 | 11-12 |
+| **Celery ribs, finely chopped** | 4-5 | 9 | 22 |
+| **Large carrots, finely chopped** | 2-3 | 4-5 | 11-12 |
+| **Garlic cloves, sliced** | 6 | 12 | 30 |
+| **Tomato paste** | 1 tube | 2 tubes | 5 tubes |
+| **Whole milk** | 250 ml | 500 ml | 1.5 L |
+| **Dry white wine** | 250 ml | 500 ml | 1.5L |
+| **Salt** | to taste | to taste | to taste |
 
 ### Preparation:
 1. In a 6- to 8-quart heavy-bottomed pot, heat the olive oil and butter over medium heat until the butter has melted.
