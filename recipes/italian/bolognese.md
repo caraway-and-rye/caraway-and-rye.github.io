@@ -4,6 +4,7 @@
 About 12
 
 ### Ingredients:
+
 | Ingredient | 1 KG | 2 KG | 5 KG |
 | :--- | :--- | :--- | :--- |
 | **Veal and pork mix, ground** | 1000 g | 2000 g | 5000 g |
@@ -40,4 +41,4 @@ Bring a large pot of salted water to a boil. For fresh pasta, cook for 1 minute 
 Per serving, add about 3/4 cup ragu in a sauté pan over medium-high heat. Add the par-cooked pasta and about 1/4 cup reserved pasta water. Stir to coat pasta and cook until the pasta is al dente, adding more pasta water as needed. Serve garnished with minced parsley and freshly grated Parmigiano-Reggiano.
 
 ### Timing:
-Prep time – 1 hour; Cook time – 3 hours
+Prep time – 1 hour; Cook time – 4 hours
