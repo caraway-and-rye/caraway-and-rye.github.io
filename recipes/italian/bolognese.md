@@ -4,12 +4,12 @@
 About 12
 
 ### Ingredients:
-| Ingredient | 1 kg Meat Batch | 2 kg Meat Batch | 5 kg Meat Batch |
+| Ingredient | 1 KG | 2 KG | 5 KG |
 | :--- | :--- | :--- | :--- |
 | **Veal and pork mix, ground** | 1000 g | 2000 g | 5000 g |
 | **Pancetta, ground** | 150 g | 300 g | 750 g |
 | **Extra virgin olive oil** | 1/4 cup | 1/2 cup | 1 1/4 cups |
-| **Butter** | 2 tablespoons | 4 tablespoons | 10 tablespoons |
+| **Butter** | 2 tbsp | 4 tbsp | 10 tbsp |
 | **Medium onions, finely chopped** | 2-3 | 4-5 | 11-12 |
 | **Celery ribs, finely chopped** | 4-5 | 9 | 22 |
 | **Large carrots, finely chopped** | 2-3 | 4-5 | 11-12 |
