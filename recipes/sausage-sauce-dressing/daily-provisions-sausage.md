@@ -16,10 +16,10 @@
 | **Cayenne** | 1 g | **2 g** | **4 g** |
 | **Ground Allspice** | 1 g | 2 g | 3 g |
 
-### Original Recipe:
+### Original quantities:
 
 Yields 210 patties - 65 grams per patty
-* 30# on the leaner side Pork Butt, ground with medium die
+* 30 lb on the leaner side Pork Butt, ground with medium die
 * 340 g salt
 * 25 g ground black pepper
 * 115 g light brown sugar
@@ -31,4 +31,8 @@ Yields 210 patties - 65 grams per patty
 * 3 t cayenne
 * 4 t ground allspice
 
-Grind through the medium grinder plate. Mix thoroughly by hand. Pat into 65 gram patties. Shape into a disc using #100 egg rings.
+Grind through the medium grinder plate. Mix thoroughly using a mixer. Pat into 65g patties and freeze until needed.
+
+### Source
+
+[Daily Provisions NY](https://www.dailyprovisions.co)

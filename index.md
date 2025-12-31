@@ -40,17 +40,13 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 [Simple side salads](recipes/european/simple-side-salads)
 
 
-##### Sauces & condiments
+## Ingredients (Sausage, Sauce, Dressing, Condiments, etc)
 
-[Apple chutney](recipes/european/apple-chutney)
+[Spicy Fennel Sausage](recipes/sausage-sauce-dressing/hot-italian-sausage)
 
+[Daily Provisions Breakfast Sausage](recipes/sausage-sauce-dressing/daily-provisions-sausage)
 
-##### Sausage
-
-[Spicy Fennel Sausage](recipes/european/hot-italian-sausage)
-
-[Daily Provisions Breakfast Sausage](recipes/dailiy-provisions-sausage)
-
+[Apple chutney](recipes/sausage-sauce-dressing/apple-chutney)
 
 ****
 
