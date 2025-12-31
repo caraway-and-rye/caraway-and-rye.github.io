@@ -40,11 +40,15 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 [Simple side salads](recipes/european/simple-side-salads)
 
 
+****
+
 ## Ingredients (Sausage, Sauce, Dressing, Condiments, etc)
 
 [Spicy Fennel Sausage](recipes/sausage-sauce-dressing/hot-italian-sausage)
 
 [Daily Provisions Breakfast Sausage](recipes/sausage-sauce-dressing/daily-provisions-sausage)
+
+[Hungarian Sausage](recipes/sausage-sauce-dressing/hungarian-sausage)
 
 [Apple chutney](recipes/sausage-sauce-dressing/apple-chutney)
 
@@ -188,6 +192,7 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Muffins](recipes/cakes/muffins)
 
+[Sour-cream cake (with fruit)](recipes/cakes/sour-cream-cake)
 
 ****
 

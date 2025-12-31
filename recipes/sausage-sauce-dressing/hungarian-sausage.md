@@ -1,6 +1,6 @@
 # Hungarian Sausage
 
-![image](recipes/fimages/hungarian-sausage.jpg)
+![image](/recipes/images/hungarian-sausage.jpg)
 
 ### Ingredients:
 
