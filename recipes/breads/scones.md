@@ -12,7 +12,7 @@ Preheat oven to 200°C. Prepare baking tray.
 | **Baking powder** | 1/2 sachet + 1/4 tsp | 3/4 sachet | 1 sachet |
 | **Butter** | 45 g | 60 g | 75 g |
 | **Caster sugar** | 1 tbsp + 1/4 tsp | 1 tbsp + 2 tsp | 2 tbsp |
-| **Egg, beaten** | 1 small egg or 3/4 large egg* | 1 egg | 1 egg |
+| **Lg Egg, beaten** | 1 small or 1/2 lg | 1 | 1 |
 | **Buttermilk** | 50 ml | 70 ml | 90 ml |
 
 *For 6 scones: Beat 1 large egg and use 45 ml (3 tbsp), reserving the rest for brushing tops.
