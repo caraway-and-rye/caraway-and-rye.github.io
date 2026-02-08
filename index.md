@@ -129,6 +129,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Swordfish with mint and potatoes](recipes/italian/swordfish-with-mint-potatoes)
 
+[Easy classic lasagne](recipes/italian/easy-classic-lasagne)
+
 
 ##### Dolci
 
@@ -237,4 +239,3 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 [Soda bread](recipes/breads/soda-bread)
 
 [Waffles](recipes/breads/waffles)
-
