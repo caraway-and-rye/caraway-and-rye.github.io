@@ -4,7 +4,6 @@ Here's my list of recipes collected from various sources, rewritten and adjusted
 
 See also the [food log](recipes/food-journal-2022) of what we had for the main meal.
 
-
 ****
 
 ## European
@@ -12,7 +11,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 ##### Starters
 
 [Pumpkin soup](recipes/european/pumpkin-soup)
-
 
 ##### Mains
 
@@ -32,13 +30,11 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Fried meat (fish / chicken / beef / pork)](recipes/european/fried-meat)
 
-
 ##### Sides
 
 [Potato salad](recipes/european/potato-salad)
 
 [Simple side salads](recipes/european/simple-side-salads)
-
 
 ****
 
@@ -62,17 +58,12 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Lamb vindaloo](recipes/indian/lamb-vindaloo)
 
-[Chicken tikka masala](recipes/indian/chicken-tikka-masala)
-
-
 ##### Dal
 
 [Masoor dal](/recipes/indian/masoor-dal)
 
-
 ##### Vegetables
 [Carrots and peas](recipes/indian/carrots-and-peas)
-
 
 ****
 
@@ -90,7 +81,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Japanese-style noodles with fish](recipes/asian/japanese-noodles-and-fish)
 
-
 ****
 
 ## Greek, Middle Eastern and North African
@@ -101,18 +91,15 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [White fish tagine](recipes/middle-eastern/white-fish-tagine)
 
-
 ****
 
 ## Italian
-
 
 ##### Antipasti
 
 [Acquacotta](recipes/italian/acquacotta)
 
 [Farro, corn and tomato warm salad](recipes/italian/farro-corn-tomato-salad)
-
 
 ##### Primi piatti
 
@@ -122,7 +109,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Lobster ravioli](recipes/italian/lobster-ravioli)
 
-
 ##### Secondi piatti
 
 [Bolognese](recipes/italian/bolognese)
@@ -131,13 +117,9 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Swordfish with mint and potatoes](recipes/italian/swordfish-with-mint-potatoes)
 
-[Easy classic lasagne](recipes/italian/easy-classic-lasagne)
-
-
 ##### Dolci
 
 [Tiramisu](recipes/italian/tiramisu)
-
 
 ****
 
@@ -150,7 +132,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 [Cheese pupusas](recipes/latin-american/cheese-pupusas)
 
 [Fish tacos](recipes/latin-american/fish-tacos)
-
 
 ****
 
@@ -171,7 +152,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 [Fruit bread](recipes/breads/fruit-bread)
 
 [Fougasse](recipes/breads/fougasse)
-
 
 ****
 
@@ -215,7 +195,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Jam biscuits](recipes/biscuits/jam-biscuits)
 
-
 ****
 
 ## Desserts
@@ -228,7 +207,6 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 [Lemon pudding](recipes/desserts/lemon-pudding)
 
 [Apple pie](recipes/desserts/apple-pie)
-
 
 ****
 
