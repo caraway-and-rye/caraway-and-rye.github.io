@@ -62,6 +62,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Lamb vindaloo](recipes/indian/lamb-vindaloo)
 
+[Chicken tikka masala](recipes/indian/chicken-tikka-masala)
+
 
 ##### Dal
 
