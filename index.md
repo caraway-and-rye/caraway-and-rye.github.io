@@ -81,6 +81,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Japanese-style noodles with fish](recipes/asian/japanese-noodles-and-fish)
 
+[Thai Coleslaw with Coconut and Lime](recipes/asian/thai-coleslaw-with-coconut-and-lime)
+
 ****
 
 ## Greek, Middle Eastern and North African
