@@ -6,6 +6,7 @@
 ### Ingredients:
 
 #### Dressing
+
 | Ingredient | 2 servings | 4 servings | 6 servings |
 | :--- | :--- | :--- | :--- |
 | **Coconut milk (light)** | 1/2 cup | 1 cup | 1 1/2 cups |
@@ -15,6 +16,7 @@
 | **Thai green curry paste** | 1/8 tsp | 1/4 tsp | 3/8 tsp |
 
 #### Coleslaw
+
 | Ingredient | 2 servings | 4 servings | 6 servings |
 | :--- | :--- | :--- | :--- |
 | **Green cabbage** | 2 cups | 4 cups | 6 cups |
