@@ -111,6 +111,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Lobster ravioli](recipes/italian/lobster-ravioli)
 
+[Grandma Walking Through the Forest in Emilia](recipes/italian/grandma_walking_through_forest_cappelletti)
+
 ##### Secondi piatti
 
 [Bolognese](recipes/italian/bolognese)
