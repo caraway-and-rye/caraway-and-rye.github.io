@@ -13,8 +13,9 @@ This is one of Rezdôra's signature dishes: tiny spinach cappelletti stuffed wit
 
 - Spinach, blanched and squeezed **very thoroughly** of all water — this is critical
 - **1 whole egg : 3 yolks** ratio (scale as needed)
+- Start with 200g of 00
 
-**Method:** Combine the spinach into the egg mixture and work into a smooth dough. Roll thin and cut into rounds for cappelletti.
+**Method:** Blitz the spinach and eggs together, than add to flour and work into a smooth dough. Roll thin and cut into squares for cappelletti using the bicycle cutter.
 
 > **Note:** Getting all the water out of the spinach is the single most important step for the dough. Any residual moisture will throw off the ratio and result in a wet, unworkable dough.
 
