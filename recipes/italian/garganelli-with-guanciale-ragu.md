@@ -52,7 +52,7 @@ A rich, Roman-leaning pasta built on rendered guanciale and pork shoulder, finis
 | Celery, minced | 50 g | 165 g |
 | Carrot, minced | 50 g | 165 g |
 | Tomato paste | 30 g | 100 g |
-| White wine | 75 g | 250 g |
+| White wine | 75 ml | 250 ml |
 | Pork shoulder, ground | 300 g | 1 kg |
 | Low-sodium chicken stock | 200 g | 665 g |
 | Sea salt | to taste | to taste |
