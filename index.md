@@ -113,6 +113,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Grandma Walking Through the Forest in Emilia](recipes/italian/grandma_walking_through_forest_cappelletti)
 
+[Sausage Ragu Bianco with Cortecce](recipes/italian/sausage-ragu-bianco-with-cortecce)
+
 ##### Secondi piatti
 
 [Bolognese](recipes/italian/bolognese)
