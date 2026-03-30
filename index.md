@@ -83,6 +83,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Thai Coleslaw with Coconut and Lime](recipes/asian/thai-coleslaw-with-coconut-and-lime)
 
+[Pad Thai](recipes/asian/pad-thai)
+
 ****
 
 ## Greek, Middle Eastern and North African
