@@ -14,6 +14,7 @@ A traditional Emilian meat ragù — pork, veal, and prosciutto slow-cooked with
 ## Ingredients
 
 ### Soffritto
+
 | Ingredient | Weight |
 |---|---|
 | Yellow onion, minced fine | 200 g |
@@ -22,6 +23,7 @@ A traditional Emilian meat ragù — pork, veal, and prosciutto slow-cooked with
 | Extra virgin olive oil | generous drizzle |
 
 ### Meat
+
 | Ingredient | Weight | Notes |
 |---|---|---|
 | Ground pork | 1 kg | the base |
@@ -29,6 +31,7 @@ A traditional Emilian meat ragù — pork, veal, and prosciutto slow-cooked with
 | Prosciutto di Parma, ground or very finely sliced | 500 g | 24-month if available |
 
 ### Braise
+
 | Ingredient | Quantity |
 |---|---|
 | Chicken stock, **hot** | enough to just cover the meat |
