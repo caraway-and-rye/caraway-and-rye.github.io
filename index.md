@@ -30,6 +30,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Fried meat (fish / chicken / beef / pork)](recipes/european/fried-meat)
 
+[Ardei umpluți](recipes/european/ardei-umpluti)
+
 ##### Sides
 
 [Potato salad](recipes/european/potato-salad)
