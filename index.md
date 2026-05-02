@@ -119,7 +119,7 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Sausage Ragu Bianco with Cortecce](recipes/italian/sausage-ragu-bianco-with-cortecce)
 
-[Ragu Bolognese by Stefano Secchi](recipes/italian/ragu-bolognese-by-stefano-secchi)
+[Ragu Modenese by Stefano Secchi](recipes/italian/ragu-modenese-by-stefano-secchi)
 
 [Garganelli with Guanciale Ragu](recipes/italian/garganelli-with-guanciale-ragu)
 
