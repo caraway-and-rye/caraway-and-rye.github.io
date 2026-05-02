@@ -5,7 +5,7 @@
 
 ---
 
-A traditional Emilian meat ragù — pork, veal, and prosciutto slow-cooked with a classic soffritto and Parmigiano rinds for 6–7 hours. Finished with just enough tomato to add depth without turning it red. This is the real thing: patient, simple, and rich.
+A traditional Emilian meat ragù — pork, mortadella, and prosciutto slow-cooked with a classic soffritto and Parmigiano rinds for 6–7 hours. Finished with just enough tomato to add depth without turning it red. This is the real thing: patient, simple, and rich.
 
 > **Scale note:** All quantities are based on **1kg ground pork.** The pork is the anchor — everything else is scaled from it.
 
@@ -27,7 +27,7 @@ A traditional Emilian meat ragù — pork, veal, and prosciutto slow-cooked with
 | Ingredient | Weight | Notes |
 |---|---|---|
 | Ground pork | 1 kg | the base |
-| Ground veal | 500 g | for lightness and delicacy |
+| Ground mortadella | 500 g | for lightness and delicacy |
 | Prosciutto di Parma, ground or very finely sliced | 500 g | 24-month if available |
 
 ### Braise
@@ -47,7 +47,7 @@ A traditional Emilian meat ragù — pork, veal, and prosciutto slow-cooked with
 In a large heavy pot or Dutch oven over medium heat, add a generous drizzle of EVOO. Add all three vegetables — onion, carrot, celery — and sauté gently until softened and just beginning to turn translucent. Don't rush this; you want them sweet, not browned.
 
 **2. Build the ragu**
-Add the ground pork, veal, and prosciutto directly to the softened soffritto. Stir to combine and distribute evenly.
+Add the ground pork, mortadella, and prosciutto directly to the softened soffritto. Stir to combine and distribute evenly.
 
 Pour in enough **hot** chicken stock to just cover the meat. Nestle the Parmigiano rinds into the mixture.
 
@@ -90,14 +90,6 @@ For the dough, use Secchi's standard egg pasta ratio: **1 whole egg to 3 yolks**
 | Low braise | **6–7 hours** |
 | Add tomato sauce | last 30 min |
 | Assembly per portion | ~5 min |
-
----
-
-## A Note on the Veal
-
-The original Rezdôra recipe uses **mortadella** in place of veal. Mortadella adds fat, subtle spice, and a particular richness from its emulsified texture. Veal substitutes cleanly in terms of weight and protein but brings a lighter, more delicate flavor profile — closer to a classical Bolognese in the style of Emilia-Romagna, where veal (or sometimes pork and beef combined) is more traditional than pork alone.
-
-If you want to restore the original character, swap the 500g veal back for 500g mortadella, ground or very finely chopped.
 
 ---
 
