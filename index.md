@@ -87,6 +87,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Pad Thai](recipes/asian/pad-thai)
 
+[Wood Ear Mushroom Salad](recipes/asian/wood-ear-mushroom-salad)
+
 ****
 
 ## Greek, Middle Eastern and North African
