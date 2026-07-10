@@ -14,6 +14,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ##### Mains
 
+[Mongolian Beef](recipes/asian/mongolian-beef)
+
 [Pressure Cooker Brisket](recipes/european/pressure-cooker-brisket)
 
 [Minced Beef Wellington](recipes/european/minced-beef-wellington)
