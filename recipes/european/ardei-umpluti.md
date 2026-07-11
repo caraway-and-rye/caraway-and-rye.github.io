@@ -22,6 +22,7 @@ Prepare all ingredients. Traditional Romanian stuffed peppers require careful pr
 | **Bay Leaves** | 1-2 | 3 | 4-5 |
 
 ### Sauce Ingredients:
+
 | Ingredient | 3 servings | 5 servings | 8 servings |
 | :--- | :--- | :--- | :--- |
 | **Tomato Concentrate** | 125ml | 250ml | 400ml |
