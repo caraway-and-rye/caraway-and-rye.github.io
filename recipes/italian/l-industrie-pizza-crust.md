@@ -1,13 +1,3 @@
----
-canonical: https://caraway-and-rye.github.io/recipes/breads/pizza-dough.html
-meta-generator: Jekyll v3.10.0
-meta-og:locale: en_US
-meta-og:site_name: caraway-and-rye
-meta-og:title: L'Industrie-Style Pizza Dough
-meta-og:type: website
-title: L'Industrie-Style Pizza Dough | caraway-and-rye
----
-
 # L'Industrie-Style Pizza Dough
 
 ## Ingredients
