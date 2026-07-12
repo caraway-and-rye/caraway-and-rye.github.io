@@ -61,15 +61,16 @@ Adjust ball weight ±20g for a thinner or thicker crust to taste.
 
 This dough freezes well, and given the effort involved, it's worth batching. Two approaches:
 
-**Freeze right after balling (recommended)** — divide and ball the dough as normal after bulk ferment, then freeze the balls within an hour or two, before the long cold ferment. This preserves yeast/bacterial vigor best, since freezing halts fermentation almost immediately rather than freezing dough that's already spent most of its fermentation activity.
-1. Lightly oil each ball and seal in an individual freezer bag or airtight container, pressing out excess air
-2. Freeze flat, labeled with the date — best quality within 4–8 weeks, usable up to ~3 months
-3. To use: move from freezer to fridge ~24 hours ahead to thaw slowly (this also functions as your cold ferment)
-4. Pull from the fridge 1.5–2 hours before stretching to come to room temperature and relax the gluten
+## Freezing
 
-**Freeze fully fermented (alternative)** — if you'd rather freeze dough that's already gone through its full 1.5–2 day schedule and is ready to bake, that works too, though expect a slightly less vigorous oven spring on thaw since the yeast has already done most of its work. Thaw and rest the same way as above.
+Freeze right after balling, before the long cold ferment — this preserves yeast/bacterial activity best.
 
-Either way, avoid freezing dough mid-ferment (e.g., partway through the cold ferment window) — you want to catch it at a clean stage, not interrupt an active rise.
+1. Divide and ball as normal after bulk ferment.
+2. Flatten each ball into a rectangle (~280×180mm works well).
+3. Flash-freeze the flattened pieces uncovered on a tray for 30–60 minutes, until firm.
+4. Bag two per 300×400mm vacuum bag, leaving a gap between them. Orient the 280mm side across the bag's 300mm width.
+5. Seal on the Henkelman Boxer 35 at ~50% vacuum (same setting as bread/rolls) — full vacuum isn't needed once the dough is firm, and keeps handling simple.
+6. Freeze flat. Use within 4–8 weeks for best quality, up to ~3 months.
 
 ## How to Make
 
