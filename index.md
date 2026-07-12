@@ -171,6 +171,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Fougasse](recipes/breads/fougasse)
 
+[L'Industrie Brooklyn Pizza Crust](recipes/italian/l-industrie-pizza-crust)
+
 ****
 
 ## Cakes
