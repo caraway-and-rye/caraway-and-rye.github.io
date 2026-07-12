@@ -14,36 +14,36 @@ title: L'Industrie-Style Pizza Dough | caraway-and-rye
 
 ## Ingredients
 
-| %      | Ingredient              | 500g Flour | 1000g Flour | 2000g Flour |
-| ------ | ------------------------ | ---------- | ----------- | ----------- |
-| 6.25%  | Petra 9 Flour             | 31g        | 63g         | 125g        |
-| 25%    | Petra 0102 Flour          | 125g       | 250g        | 500g        |
-| 6.25%  | Semolina Flour             | 31g        | 63g         | 125g        |
-| 62.5%  | Caputo Nuvola Flour       | 313g       | 625g        | 1250g       |
-| 50%    | Water                      | 250g       | 500g        | 1000g       |
-| 4.4%   | Salt                       | 22g        | 44g         | 88g         |
-| 3.75%  | Sugar                      | 19g        | 38g         | 75g         |
-| 3.1%   | Olive Oil                  | 16g        | 31g         | 63g         |
-| 6.25%  | Sourdough Starter (Bread 41) | 31g     | 63g         | 125g        |
-| ≤6.25% | Poolish Water (see Notes) | ≤31g       | ≤63g        | ≤125g       |
+| %      | Ingredient              | 500g Flour | 1000g Flour | 2000g Flour | 3000g Flour |
+| ------ | ------------------------ | ---------- | ----------- | ----------- | ----------- |
+| 6.25%  | Petra 9 Flour             | 31g        | 63g         | 125g        | 188g        |
+| 25%    | Petra 0102 Flour          | 125g       | 250g        | 500g        | 750g        |
+| 6.25%  | Semolina Flour             | 31g        | 63g         | 125g        | 188g        |
+| 62.5%  | Petra 5063 Special Flour  | 313g       | 625g        | 1250g       | 1875g       |
+| 50%    | Water                      | 250g       | 500g        | 1000g       | 1500g       |
+| 4.4%   | Salt                       | 22g        | 44g         | 88g         | 132g        |
+| 3.75%  | Sugar                      | 19g        | 38g         | 75g         | 113g        |
+| 3.1%   | Olive Oil                  | 16g        | 31g         | 63g         | 93g         |
+| 6.25%  | Sourdough Starter (Bread 41) | 31g     | 63g         | 125g        | 188g        |
+| ≤6.25% | Poolish Water (see Notes) | ≤31g       | ≤63g        | ≤125g       | ≤188g       |
 
-Percentages are baker's percentages relative to **total flour weight** (Petra 9 + Petra 0102 + Semolina + Caputo Nuvola).
+Percentages are baker's percentages relative to **total flour weight** (Petra 9 + Petra 0102 + Semolina + Petra 5063 Special).
 
 ## Notes
 
 - **This is a slow, multi-day dough.** Don't attempt it same-day — budget 1.5–2 days from mix to bake.
-- **Flour blend**: This recreates L'Industrie Pizzeria's (Brooklyn) approach of cutting several flours rather than using one — reportedly a mix of Petra whole-grain flour and an AP/bread flour, changed over time. We're using Caputo Nuvola in place of their in-house "Special" AP flour, and their "0102" is confirmed to be a Petra product (Molino Quaglia).
+- **Flour blend — all three flours confirmed and now used directly.** This recreates L'Industrie Pizzeria's (Brooklyn) actual blend, identified from a screenshot of a Bon Appétit video (frame at ~4:10, [youtube.com/watch?v=frocQGzc53I](https://www.youtube.com/watch?v=frocQGzc53I)) showing the bag in use on their line: **"Special" on the handwritten recipe is Petra 5063 "Special,"** its literal product name — not a generic AP flour as earlier guessed. The full blend is Petra 9 (whole grain, stone-milled), Petra 0102 (Tipo 1), and Petra 5063 Special (Tipo 0, W 260-280, formulated for medium-duration fermentation).
+- **Petra 5063 handling notes**: it's built for room-temp fermentation windows of 8–12 hours, or refrigerated for longer holds, and its recommended hydration range tops out around 70%. It also absorbs less water than Caputo Nuvola (roughly 58.5% of its own weight). If your dough feels noticeably slacker/wetter than you're used to once you swap in the 5063, dial back the "Poolish Water" adjustment line first before touching the main water — small steps.
 - **Poolish**: their in-house process reportedly uses a **poolish built at equal parts flour and water** (roughly 4kg flour : 4kg water in their commercial batch), made with **fresh yeast** — no additional yeast goes into the final dough beyond what's in the poolish. Scale that ratio down to your batch size to build your poolish; the "Poolish Water" line above is the *adjustment* water — reduce it (down to zero) for a wetter, more active poolish.
 - **Hydration**: reported to run in the **70%+ range**, notably higher than typical NY-style dough (mid-to-high 60s). Don't be alarmed if this feels wetter than a "classic" NY dough — it's intentional.
 - **Fermentation schedule** (as close as we can reconstruct it from people who've watched them work): mixed early morning, **5–6 hours bulk ferment at room temp**, then balled — they're seen balling dough around midday, meaning the balls themselves then go on to cold ferment for the bulk of the 1.5–2 days before bake.
 - **Bread 41 starter**: works fine here. It's typically maintained cold and at high hydration — pull it out the night before and let it come fully active at room temp before using. No need to convert it off rye/wholemeal unless you want a milder flavor.
-- Take the "3–4 flour blend" with a grain of salt — some pizza-flour experts argue multi-flour blends are more marketing than technique unless each flour's role is clearly defined. Here, the roles are: Petra 9 (whole grain, flavor/nutrition), Petra 0102 (structure, extensibility), semolina (color, minor chew), Caputo Nuvola (primary structural flour, handles the high hydration).
+- Take the "3–4 flour blend" with a grain of salt — some pizza-flour experts argue multi-flour blends are more marketing than technique unless each flour's role is clearly defined. Here, the roles are clear: Petra 9 (whole grain, flavor/nutrition), Petra 0102 (structure, extensibility), semolina (color, minor chew), Petra 5063 Special (primary structural flour — this is the one doing most of the work, formulated specifically for pizza dough with medium-duration fermentation).
 
 ## Buy
 
-- **Caputo Nuvola** — Kate's Kitchen (kateskitchen.ie, ships nationwide), Italicatessen (Dublin), or Evergreen Healthfoods
-- **Petra 9 / Petra 0102** — no Irish stockist found; order from [YouDreamItaly](https://www.youdreamitaly.com) (ships from Naples, EU-wide delivery). Found a 12.5kg bag of **each** (25kg total) delivered to Ireland for **€103** (~€4.12/kg) — solid value given the volume. Confirm the shipping cost at final checkout before submitting, as some buyers have reported quoted shipping costs changing at that step. Their eBay storefront (same seller, 94% positive feedback) is a lower-risk alternative if you'd rather have eBay buyer protection. Store the Petra 9 in an airtight container — being whole grain, it has a shorter shelf life than refined flour
-- **Semolina** — any Irish grocer
+- **Petra 9 / Petra 0102 / Petra 5063 Special** — the full authentic blend, all sourced together. No Irish stockist found for any of the three; order from [YouDreamItaly](https://www.youdreamitaly.com) (ships from Naples, EU-wide delivery), all available in 12.5kg bags. Confirm the shipping cost at final checkout before submitting, as some buyers have reported quoted shipping costs changing at that step. Their eBay storefront (same seller, 94% positive feedback) is a lower-risk alternative if you'd rather have eBay buyer protection. Store the Petra 9 in particular in an airtight container — being whole grain, it has a shorter shelf life than refined flour
+- **Caputo Nuvola** — no longer needed for this recipe now that Petra 5063 Special is sourced, but worth keeping in mind as a substitute for 5063 in a pinch (similar Tipo 0 category, higher protein). Available locally via Kate's Kitchen (kateskitchen.ie, ships nationwide), Italicatessen (Dublin), or Evergreen Healthfoods
 - **Fresh yeast** (for the poolish) — most Irish supermarkets or a local bakery counter
 
 ## Timing
@@ -52,7 +52,28 @@ Percentages are baker's percentages relative to **total flour weight** (Petra 9 
 
 ## Makes
 
-500g flour → ~2 pizzas · 1000g flour → ~4 pizzas · 2000g flour → ~8 pizzas (based on ~450–475g dough balls, adjust to your preferred size)
+Based on ~300g dough balls (sized for a 30cm/12" pizza — realistic for home stretching without a commercial sheeter):
+
+- 500g flour batch (~869g total dough) → **~3 pizzas**
+- 1000g flour batch (~1,738g total dough) → **~6 pizzas**
+- 2000g flour batch (~3,476g total dough) → **~12 pizzas**
+- 3000g flour batch (~5,215g total dough) → **~17 pizzas**
+
+Adjust ball weight ±20g for a thinner or thicker crust to taste.
+
+## Freezing
+
+This dough freezes well, and given the effort involved, it's worth batching. Two approaches:
+
+**Freeze right after balling (recommended)** — divide and ball the dough as normal after bulk ferment, then freeze the balls within an hour or two, before the long cold ferment. This preserves yeast/bacterial vigor best, since freezing halts fermentation almost immediately rather than freezing dough that's already spent most of its fermentation activity.
+1. Lightly oil each ball and seal in an individual freezer bag or airtight container, pressing out excess air
+2. Freeze flat, labeled with the date — best quality within 4–8 weeks, usable up to ~3 months
+3. To use: move from freezer to fridge ~24 hours ahead to thaw slowly (this also functions as your cold ferment)
+4. Pull from the fridge 1.5–2 hours before stretching to come to room temperature and relax the gluten
+
+**Freeze fully fermented (alternative)** — if you'd rather freeze dough that's already gone through its full 1.5–2 day schedule and is ready to bake, that works too, though expect a slightly less vigorous oven spring on thaw since the yeast has already done most of its work. Thaw and rest the same way as above.
+
+Either way, avoid freezing dough mid-ferment (e.g., partway through the cold ferment window) — you want to catch it at a clean stage, not interrupt an active rise.
 
 ## How to Make
 
