@@ -8,8 +8,6 @@ meta-og:type: website
 title: L'Industrie-Style Pizza Dough | caraway-and-rye
 ---
 
-# [caraway-and-rye](https://caraway-and-rye.github.io/)
-
 # L'Industrie-Style Pizza Dough
 
 ## Ingredients
