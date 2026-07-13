@@ -1,4 +1,4 @@
-# Ragù Bolognese
+# Ragù Modenese
 ### *Tagliatelle al Ragù*
 
 *Chef Stefano Secchi — Rezdôra, New York City*
