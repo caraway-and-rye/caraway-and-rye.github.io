@@ -12,6 +12,8 @@ About 6, 12, or 30
 | :--- | :--- | :--- | :--- |
 | **Veal and pork mix, ground** | 1000 g | 2000 g | 5000 g |
 | **Pancetta, ground** | 150 g | 300 g | 750 g |
+| **Mortadella, ground** (optional) | 250 g | 500 g | 1250 g |
+| **Prosciutto, ground** (optional) | 250 g | 500 g | 1250 g |
 | **Extra virgin olive oil** | 1/4 cup | 1/2 cup | 1 1/4 cups |
 | **Butter** | 2 tbsp | 4 tbsp | 10 tbsp |
 | **Medium onions, finely chopped** | 2-3 | 4-5 | 11-12 |
@@ -30,7 +32,7 @@ About 6, 12, or 30
 4. Add the tomato paste and cook for 2 to 3 minutes, or until the color is rusty orange.
 5. Add the milk and cook for an additional 2 to 3 minutes.
 6. Add the wine and bring the mixture to a boil.
-7. Reduce the heat to low and simmer, uncovered, for 2 to 3 hours. Stir occasionally and take care to not burn the ragu. If the ragu appears dry over the 2 to 3 hour simmer, stir in 1/4 cup of water as frequently as needed.
+7. Reduce the heat to low and simmer, uncovered, for 2 to 3 hours **(5 hours if using optional ingredients)**. Stir occasionally and take care to not burn the ragu. If the ragu appears dry over the 2 to 3 hour simmer, stir in 1/4 cup of water as frequently as needed.
 8. Add salt to taste, remove from heat and let cool.
 9. The ragu can be stored in an airtight container for 1 week in the refrigerator or frozen for up to 6 months.
 
