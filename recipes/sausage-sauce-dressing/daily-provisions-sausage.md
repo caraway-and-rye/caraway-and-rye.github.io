@@ -6,15 +6,15 @@
 | :--- | :--- | :--- | :--- |
 | **Pork Butt, ground** | 1000 g | 2500 g | 5000 g |
 | **Salt** | 25 g | 63 g | 125 g |
-| **Ground Black Pepper** | 2 g | 5 g | 10 g |
+| **Ground Black Pepper** | 4 g | 10 g | 10 g |
 | **Light Brown Sugar** | 9 g | 22 g | 43 g |
-| **Minced Sage** | 2 g | 3 g | 6 g |
-| **Minced Thyme** | 1 g | 2 g | 4 g |
-| **Ground Nutmeg** | 1 g | 2 g | 3 g |
-| **Ground Fennel** | 1 g | **2 g** | **4 g** |
-| **Ground Coriander** | 1 g | **2 g** | **4 g** |
-| **Cayenne** | 1 g | **2 g** | **4 g** |
-| **Ground Allspice** | 1 g | 2 g | 3 g |
+| **Minced Sage** | 4 g | 6 g | 6 g |
+| **Minced Thyme** | 2 g | 8 g | 4 g |
+| **Ground Nutmeg** | 2 g | 6 g | 3 g |
+| **Ground Fennel** | 2 g | **5 g** | **4 g** |
+| **Ground Coriander** | 2 g | **5 g** | **4 g** |
+| **Cayenne** | 2 g | **7 g** | **4 g** |
+| **Ground Allspice** | 2 g | 5 g | 3 g |
 
 ### Original quantities:
 
