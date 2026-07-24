@@ -2,25 +2,26 @@
 
 ## Ingredients
 
-| %      | Ingredient              | 500g Flour | 1000g Flour | 2000g Flour | 3000g Flour |
-| ------ | ------------------------ | ---------- | ----------- | ----------- | ----------- |
-| 6.25%  | Petra 9 Flour             | 31g        | 63g         | 125g        | 188g        |
-| 25%    | Petra 0102 Flour          | 125g       | 250g        | 500g        | 750g        |
-| 6.25%  | Semolina Flour             | 31g        | 63g         | 125g        | 188g        |
-| 62.5%  | Petra 5063 Special Flour  | 313g       | 625g        | 1250g       | 1875g       |
-| 50%    | Water                      | 250g       | 500g        | 1000g       | 1500g       |
-| 4.4%   | Salt                       | 22g        | 44g         | 88g         | 132g        |
-| 3.75%  | Sugar                      | 19g        | 38g         | 75g         | 113g        |
-| 3.1%   | Olive Oil                  | 16g        | 31g         | 63g         | 93g         |
-| 6.25%  | Sourdough Starter (Bread 41) | 31g     | 63g         | 125g        | 188g        |
-| ≤6.25% | Poolish Water (see Notes) | ≤31g       | ≤63g        | ≤125g       | ≤188g       |
+| %      | Ingredient                   | 500g Flour | 1000g Flour | 2000g Flour | 3000g Flour |
+| ------ | ----------------------------- | ---------- | ----------- | ----------- | ----------- |
+| 6.25%  | Petra 9 Flour                  | 31g        | 63g         | 125g        | 188g        |
+| 25%    | Petra 0102 Flour               | 125g       | 250g        | 500g        | 750g        |
+| 6.25%  | Semolina Flour                 | 31g        | 63g         | 125g        | 188g        |
+| 62.5%  | Petra 5063 Special Flour       | 313g       | 625g        | 1250g       | 1875g       |
+| 50%    | Water                           | 250g       | 500g        | 1000g       | 1500g       |
+| 4.4%   | Salt                            | 22g        | 44g         | 88g         | 132g        |
+| 3.75%  | Sugar                            | 19g        | 38g         | 75g         | 113g        |
+| 3.1%   | Olive Oil                        | 16g        | 31g         | 63g         | 93g         |
+| 5%     | Sourdough Starter (Bread 41)     | 25g        | 50g         | 100g        | 150g        |
+| 11%    | Poolish Flour (from Petra 5063)  | 55g        | 110g        | 220g        | 330g        |
+| 11%    | Poolish Water                    | 55g        | 110g        | 220g        | 330g        |
+| —      | Fresh Yeast (for poolish)        | ~0.3g      | ~0.6g       | ~1.2g       | ~1.8g       |
 
-Percentages are baker's percentages relative to **total flour weight** (Petra 9 + Petra 0102 + Semolina + Petra 5063 Special).
-
+Percentages are baker's percentages relative to **total flour weight** (Petra 9 + Petra 0102 + Semolina + Petra 5063 Special). Poolish flour is drawn **from** the Petra 5063 amount above, not added on top.
 
 ## How to Make
 
-Build your poolish first (equal parts flour and water from your total, plus a small amount of fresh yeast), and let it ferment several hours until active and bubbly.
+Build your poolish first: combine the Poolish Flour, Poolish Water, and fresh yeast (equal parts flour and water, 100% hydration). Let it ferment several hours at room temperature until active, bubbly, and just starting to fall in the middle.
 
 Mix the poolish with the remaining flours, water, sourdough starter, sugar, oil, and salt in the stand mixer. Knead until smooth and the dough passes a windowpane test — this is a stronger, higher-hydration dough than a standard NY dough, so it will take longer to develop than you might expect.
 
@@ -44,21 +45,17 @@ Adjust ball weight ±20g for a thinner or thicker crust to taste.
 ## Notes
 
 - **This is a slow, multi-day dough.** Don't attempt it same-day — budget 1.5–2 days from mix to bake.
-- **Petra 5063 handling notes**: it's built for room-temp fermentation windows of 8–12 hours, or refrigerated for longer holds, and its recommended hydration range tops out around 70%. It also absorbs less water than Caputo Nuvola (roughly 58.5% of its own weight). If your dough feels noticeably slacker/wetter than you're used to once you swap in the 5063, dial back the "Poolish Water" adjustment line first before touching the main water — small steps.
-- **Poolish**: their in-house process reportedly uses a **poolish built at equal parts flour and water** (roughly 4kg flour : 4kg water in their commercial batch), made with **fresh yeast** — no additional yeast goes into the final dough beyond what's in the poolish. Scale that ratio down to your batch size to build your poolish; the "Poolish Water" line above is the *adjustment* water — reduce it (down to zero) for a wetter, more active poolish.
-- **Hydration**: reported to run in the **70%+ range**, notably higher than typical NY-style dough (mid-to-high 60s). Don't be alarmed if this feels wetter than a "classic" NY dough — it's intentional.
-- **Fermentation schedule** (as close as we can reconstruct it from people who've watched them work): mixed early morning, **5–6 hours bulk ferment at room temp**, then balled — they're seen balling dough around midday, meaning the balls themselves then go on to cold ferment for the bulk of the 1.5–2 days before bake.
-- **Bread 41 starter**: works fine here. It's typically maintained cold and at high hydration — pull it out the night before and let it come fully active at room temp before using. No need to convert it off rye/wholemeal unless you want a milder flavor.
+- **Petra 5063 handling notes**: built for room-temp fermentation windows of 8–12 hours, or refrigerated for longer holds; recommended hydration tops out around 70%. It absorbs less water than Caputo Nuvola (roughly 58.5% of its own weight). If the dough feels noticeably slacker/wetter than usual, dial back the poolish water first before touching the main water — small steps.
+- **Poolish**: confirmed from source footage — the poolish is built at equal parts flour and water (4kg : 4kg in their commercial batch, ~11% of total flour), made with a small amount of fresh yeast, with no additional yeast added to the final dough. Use Petra 5063 (your base flour) for the poolish.
+- **Sourdough starter**: confirmed from source footage as ~5% of total flour, added purely for flavor/sourness, not leavening. Pull the starter out the night before and let it come fully active at room temp before using. No need to convert it off rye/wholemeal unless you want a milder flavor.
+- **Hydration**: reported to run in the **70%+ range**, notably higher than typical NY-style dough (mid-to-high 60s).
+- **Fermentation schedule**: mixed early morning, 5–6 hours bulk ferment at room temp, then balled around midday, then cold ferment for the bulk of the 1.5–2 days before bake.
 
 ## Buy
 
-- **Petra 9 / Petra 0102 / Petra 5063 Special** — the full authentic blend, all sourced together. No Irish stockist found for any of the three; order from [YouDreamItaly](https://www.youdreamitaly.com) (ships from Naples, EU-wide delivery), all available in 12.5kg bags. Confirm the shipping cost at final checkout before submitting, as some buyers have reported quoted shipping costs changing at that step. Their eBay storefront (same seller, 94% positive feedback) is a lower-risk alternative if you'd rather have eBay buyer protection. Store the Petra 9 in particular in an airtight container — being whole grain, it has a shorter shelf life than refined flour
-- **Caputo Nuvola** — no longer needed for this recipe now that Petra 5063 Special is sourced, but worth keeping in mind as a substitute for 5063 in a pinch (similar Tipo 0 category, higher protein). Available locally via Kate's Kitchen (kateskitchen.ie, ships nationwide), Italicatessen (Dublin), or Evergreen Healthfoods
-- **Fresh yeast** (for the poolish) — most Irish supermarkets or a local bakery counter
-
-## Freezing
-
-This dough freezes well, and given the effort involved, it's worth batching. Two approaches:
+- **Petra 9 / Petra 0102 / Petra 5063 Special** — the full authentic blend, all sourced together. No Irish stockist found for any of the three; order from [YouDreamItaly](https://www.youdreamitaly.com) (ships from Naples, EU-wide delivery), all available in 12.5kg bags. Confirm shipping cost at final checkout, as some buyers have reported it changing at that step. Their eBay storefront (same seller, 94% positive feedback) is a lower-risk alternative. Store Petra 9 in particular in an airtight container — being whole grain, it has a shorter shelf life than refined flour.
+- **Caputo Nuvola** — no longer needed now that Petra 5063 Special is sourced, but a fine substitute for 5063 in a pinch (similar Tipo 0 category, higher protein). Available locally via Kate's Kitchen (kateskitchen.ie, ships nationwide), Italicatessen (Dublin), or Evergreen Healthfoods.
+- **Fresh yeast** (for the poolish) — most Irish supermarkets or a local bakery counter.
 
 ## Freezing
 
@@ -68,6 +65,5 @@ Freeze right after balling, before the long cold ferment — this preserves yeas
 2. Flatten each ball into a rectangle (~280×180mm works well).
 3. Flash-freeze the flattened pieces uncovered on a tray for 30–60 minutes, until firm.
 4. Bag two per 300×400mm vacuum bag, leaving a gap between them. Orient the 280mm side across the bag's 300mm width.
-5. Seal on the Henkelman Boxer 35 at ~50% vacuum (same setting as bread/rolls) — full vacuum isn't needed once the dough is firm, and keeps handling simple.
+5. Seal on the Henkelman Boxer 35 at ~50% vacuum — full vacuum isn't needed once the dough is firm.
 6. Freeze flat. Use within 4–8 weeks for best quality, up to ~3 months.
-
