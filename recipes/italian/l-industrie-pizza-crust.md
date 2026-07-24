@@ -2,22 +2,31 @@
 
 ## Ingredients
 
-| %      | Ingredient                   | 500g Flour | 1000g Flour | 2000g Flour | 3000g Flour |
-| ------ | ----------------------------- | ---------- | ----------- | ----------- | ----------- |
-| 6.25%  | Petra 9 Flour                  | 31g        | 63g         | 125g        | 188g        |
-| 25%    | Petra 0102 Flour               | 125g       | 250g        | 500g        | 750g        |
-| 6.25%  | Semolina Flour                 | 31g        | 63g         | 125g        | 188g        |
-| 62.5%  | Petra 5063 Special Flour       | 313g       | 625g        | 1250g       | 1875g       |
-| 50%    | Water                           | 250g       | 500g        | 1000g       | 1500g       |
-| 4.4%   | Salt                            | 22g        | 44g         | 88g         | 132g        |
-| 3.75%  | Sugar                            | 19g        | 38g         | 75g         | 113g        |
-| 3.1%   | Olive Oil                        | 16g        | 31g         | 63g         | 93g         |
-| 5%     | Sourdough Starter (Bread 41)     | 25g        | 50g         | 100g        | 150g        |
-| 11%    | Poolish Flour (from Petra 5063)  | 55g        | 110g        | 220g        | 330g        |
-| 11%    | Poolish Water                    | 55g        | 110g        | 220g        | 330g        |
-| —      | Fresh Yeast (for poolish)        | ~0.3g      | ~0.6g       | ~1.2g       | ~1.8g       |
+Percentages are baker's percentages relative to **total flour weight** (Petra 9 + Petra 0102 + Semolina + Petra 5063 Special, all four combined). The Petra 5063 is split between the poolish and the final dough — the amounts below are the actual, ready-to-use quantities for each part.
 
-Percentages are baker's percentages relative to **total flour weight** (Petra 9 + Petra 0102 + Semolina + Petra 5063 Special). Poolish flour is drawn **from** the Petra 5063 amount above, not added on top.
+### Poolish (build first)
+
+| %   | Ingredient                | 500g Flour | 1000g Flour | 2000g Flour | 3000g Flour |
+| --- | -------------------------- | ---------- | ----------- | ----------- | ----------- |
+| 11% | Petra 5063 Flour            | 55g        | 110g        | 220g        | 330g        |
+| 11% | Water                        | 55g        | 110g        | 220g        | 330g        |
+| —   | Fresh Yeast                  | ~0.3g      | ~0.6g       | ~1.2g       | ~1.8g       |
+
+### Final Dough (mixed with the poolish)
+
+| %      | Ingredient                    | 500g Flour | 1000g Flour | 2000g Flour | 3000g Flour |
+| ------ | ------------------------------ | ---------- | ----------- | ----------- | ----------- |
+| 6.25%  | Petra 9 Flour                    | 31g        | 63g         | 125g        | 188g        |
+| 25%    | Petra 0102 Flour                 | 125g       | 250g        | 500g        | 750g        |
+| 6.25%  | Semolina Flour                    | 31g        | 63g         | 125g        | 188g        |
+| 51.5%  | Petra 5063 Flour (remainder)      | 258g       | 515g        | 1030g       | 1545g       |
+| 39%    | Water (remainder)                  | 195g       | 390g        | 780g        | 1170g       |
+| 4.4%   | Salt                                | 22g        | 44g         | 88g         | 132g        |
+| 3.75%  | Sugar                                | 19g        | 38g         | 75g         | 113g        |
+| 3.1%   | Olive Oil                            | 16g        | 31g         | 63g         | 93g         |
+| 5%     | Sourdough Starter (Bread 41)         | 25g        | 50g         | 100g        | 150g        |
+
+Note: total water across both sections still equals the overall 50% hydration figure (poolish water + final dough water).
 
 ## How to Make
 
@@ -46,7 +55,7 @@ Adjust ball weight ±20g for a thinner or thicker crust to taste.
 
 - **This is a slow, multi-day dough.** Don't attempt it same-day — budget 1.5–2 days from mix to bake.
 - **Petra 5063 handling notes**: built for room-temp fermentation windows of 8–12 hours, or refrigerated for longer holds; recommended hydration tops out around 70%. It absorbs less water than Caputo Nuvola (roughly 58.5% of its own weight). If the dough feels noticeably slacker/wetter than usual, dial back the poolish water first before touching the main water — small steps.
-- **Poolish**: confirmed from source footage — the poolish is built at equal parts flour and water (4kg : 4kg in their commercial batch, ~11% of total flour), made with a small amount of fresh yeast, with no additional yeast added to the final dough. Use Petra 5063 (your base flour) for the poolish.
+- **Poolish**: confirmed from source footage — the poolish is built at equal parts flour and water (4kg : 4kg in their commercial batch, ~11% of total flour), made with a small amount of fresh yeast, with no additional yeast added to the final dough.
 - **Sourdough starter**: confirmed from source footage as ~5% of total flour, added purely for flavor/sourness, not leavening. Pull the starter out the night before and let it come fully active at room temp before using. No need to convert it off rye/wholemeal unless you want a milder flavor.
 - **Hydration**: reported to run in the **70%+ range**, notably higher than typical NY-style dough (mid-to-high 60s).
 - **Fermentation schedule**: mixed early morning, 5–6 hours bulk ferment at room temp, then balled around midday, then cold ferment for the bulk of the 1.5–2 days before bake.
