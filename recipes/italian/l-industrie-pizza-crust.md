@@ -62,17 +62,17 @@ Adjust ball weight ±20g for a thinner or thicker crust to taste.
 
 ## Buy
 
-- **Petra 9 / Petra 0102 / Petra 5063 Special** — the full authentic blend, all sourced together. No Irish stockist found for any of the three; order from [YouDreamItaly](https://www.youdreamitaly.com) (ships from Naples, EU-wide delivery), all available in 12.5kg bags. Confirm shipping cost at final checkout, as some buyers have reported it changing at that step. Their eBay storefront (same seller, 94% positive feedback) is a lower-risk alternative. Store Petra 9 in particular in an airtight container — being whole grain, it has a shorter shelf life than refined flour.
-- **Caputo Nuvola** — no longer needed now that Petra 5063 Special is sourced, but a fine substitute for 5063 in a pinch (similar Tipo 0 category, higher protein). Available locally via Kate's Kitchen (kateskitchen.ie, ships nationwide), Italicatessen (Dublin), or Evergreen Healthfoods.
-- **Fresh yeast** (for the poolish) — most Irish supermarkets or a local bakery counter.
+- **Petra 9 / Petra 0102 / Petra 5063 Special** — the full authentic blend, all sourced together. Order from [YouDreamItaly](https://www.youdreamitaly.com) (ships from Naples, EU-wide delivery), all available in 12.5kg bags. *Store Petra 9 in particular in an airtight container — being whole grain, it has a shorter shelf life than refined flour.*
+- **Fresh yeast** (for the poolish) — Get from Polonez.
 
 ## Freezing
 
-Freeze right after balling, before the long cold ferment — this preserves yeast/bacterial activity best.
+Freeze **after** the dough balls have completed their full fermentation (bulk ferment + cold retard) — i.e., right when they'd otherwise be ready to stretch and bake. This locks in the fermentation at its peak, so thawing later doesn't require any additional proofing time — pull from the freezer, thaw (even at room temperature, while still vacuum sealed), then stretch and bake directly.
 
-1. Divide and ball as normal after bulk ferment.
+1. Complete the full 1.5–2 day fermentation schedule as normal (bulk ferment, ball, cold retard).
 2. Flatten each ball into a rectangle (~280×180mm works well).
 3. Flash-freeze the flattened pieces uncovered on a tray for 30–60 minutes, until firm.
 4. Bag two per 300×400mm vacuum bag, leaving a gap between them. Orient the 280mm side across the bag's 300mm width.
 5. Seal on the Henkelman Boxer 35 at ~50% vacuum — full vacuum isn't needed once the dough is firm.
 6. Freeze flat. Use within 4–8 weeks for best quality, up to ~3 months.
+7. To use: thaw sealed in room-temperature water (fastest) or in the fridge overnight, then stretch and bake as normal — no additional proofing needed.
