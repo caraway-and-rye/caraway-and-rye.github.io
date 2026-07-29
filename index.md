@@ -127,6 +127,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Garganelli with Guanciale Ragu](recipes/italian/garganelli-with-guanciale-ragu)
 
+[Risotto Cacio e Pepe](recipes/italian/risotto-cacio-e-pepe)
+
 ##### Secondi piatti
 
 [Bolognese](recipes/italian/bolognese)
