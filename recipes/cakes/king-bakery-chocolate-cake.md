@@ -1,4 +1,4 @@
-# High-Ratio Chocolate Cake
+# King Bakery Chocolate Cake
 
 ## Ingredients
 
