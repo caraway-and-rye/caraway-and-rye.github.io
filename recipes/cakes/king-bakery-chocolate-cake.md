@@ -8,17 +8,19 @@ Liquids are given by volume, as in the original — see Notes on why they haven'
 
 ### Batter — Stage 1: mix 3 minutes on low speed
 
-| Ingredient              | 8 qt    | 4 qt    | 2 qt   | 1 qt   | ¾ qt   | ½ qt   |
-| ----------------------- | ------- | ------- | ------ | ------ | ------ | ------ |
-| Granulated Sugar        | 7257g   | 3629g   | 1814g  | 907g   | 680g   | 454g   |
-| Cake Flour              | 5443g   | 2722g   | 1361g  | 680g   | 510g   | 340g   |
-| Sweetex                 | 2155g   | 1077g   | 539g   | 269g   | 202g   | 135g   |
-| Unsweetened Cocoa       | 1361g   | 680g    | 340g   | 170g   | 128g   | 85g    |
-| Baking Powder (Rumford) | 227g    | 113g    | 56.7g  | 28.3g  | 21.3g  | 14.2g  |
-| Baking Soda             | 227g    | 113g    | 56.7g  | 28.3g  | 21.3g  | 14.2g  |
-| Eggs                    | 1893mL  | 946mL   | 473mL  | 237mL  | 177mL* | 118mL  |
+| Ingredient                                    | 8 qt   | 4 qt  | 2 qt  | 1 qt  | ¾ qt   | ½ qt  |
+| --------------------------------------------- | ------ | ----- | ----- | ----- | ------ | ----- |
+| Granulated Sugar                              | 7257g  | 3629g | 1814g | 907g  | 680g   | 454g  |
+| Cake Flour<br><small>or plain flour †</small> | 5443g  | 2722g | 1361g | 680g  | 510g   | 340g  |
+| Sweetex                                       | 2155g  | 1077g | 539g  | 269g  | 202g   | 135g  |
+| Unsweetened Cocoa                             | 1361g  | 680g  | 340g  | 170g  | 128g   | 85g   |
+| Baking Powder (Rumford)                       | 227g   | 113g  | 56.7g | 28.3g | 21.3g  | 14.2g |
+| Baking Soda                                   | 227g   | 113g  | 56.7g | 28.3g | 21.3g  | 14.2g |
+| Eggs                                          | 1893mL | 946mL | 473mL | 237mL | 177mL* | 118mL |
 
 \* ≈ 4 large eggs (noted on the original card).
+
+† Chlorinated cake flour cannot be sold in the EU. In Ireland, substitute oven-treated plain flour — see [Baking this in Ireland](#baking-this-in-ireland).
 
 ### Batter — Stage 2: add VERY SLOWLY, then mix 3 minutes on medium
 
@@ -111,9 +113,30 @@ Quarter-sheet cakes, per the original card:
 - **Rumford** is a specific baking powder — aluminium-free, monocalcium phosphate, fast-acting. Paired here with an equal weight of baking soda against a heavy dose of natural cocoa. Substituting a slow-acting double-acting powder will change the crumb.
 - **Cocoa is Dutch-process (alkalised)** — Valrhona, as used in the bakery. It is not acidic, so the large soda addition is not there to neutralise the cocoa; it is reacting with the Rumford's acid phosphate, and doing the dark-colour and tenderising work that heavy soda does in a devil's-food style cake. **Do not substitute a natural (non-alkalised) cocoa** — it would throw the acid balance off against this much soda.
 
+## Baking this in Ireland
+
+**Cake flour — use oven-treated plain flour.** US cake flour is chlorinated, and chlorination is banned across the EU, so there is no equivalent on sale here. Chlorination lowered protein, but the job that matters for this cake is that it raised the flour's **absorption capacity** — which is what lets the batter carry sugar at 133% of flour and liquid at 174%. Cream plain flour is around 9.5% protein against cake flour's 7.5–8%, so protein is very nearly a non-issue. Absorption is the whole gap.
+
+Oven-treating closes most of it — it damages some starch so it takes up more liquid, and weakens the protein slightly as a side effect:
+
+1. Spread the plain flour on a baking tray, roughly 2cm deep.
+2. 120 °C for 15–20 minutes, stirring every 5.
+3. Cool completely, then sift — it clumps as it cools.
+4. **Weigh out the recipe amount after treating, not before.** It loses moisture in the oven.
+
+Any toasty note this leaves is invisible against 85g of Dutch-process cocoa, which makes it a low-risk step in this cake specifically.
+
+**Do not cut the flour with cornflour.** That is the standard cake-flour substitution and it is wrong here. This batter is already short on structure: the cocoa contributes no gluten and the sugar suppresses what remains, putting effective protein near 7.6%. Diluting with pure starch drops it to roughly 6.6% and invites the cake to sink. Maize starch also gelatinises higher than wheat — about 62–72 °C against 52–64 °C — so on top of a sugar load that already raises the set point, the crumb sets later still, having risen further, with less protein holding it up.
+
+A purpose-milled soft **sponge flour** beats plain flour if you can get one; finer particles hydrate faster, which helps the emulsion. Treat it the same way unless the bag says it is already heat-treated.
+
+**Test-bake before committing.** Halve the ½ qt column for a single 8–9" layer: flour 170g, sugar 227g, Sweetex 67.5g, cocoa 42.5g, baking powder and soda 7.1g each, eggs 59mL, hot water 59mL **twice**, whole milk 118mL, salt 3.5g. If it domes and holds, run the full double layer. If it sinks in the middle the flour needs *more* structure, not less — cut in a little strong flour rather than reaching for cornflour.
+
+Untested against this formula as of writing. If you bake it, record what happened here.
+
 ## Buy
 
-- **Sweetex** — high-ratio emulsified shortening; standard bakery supply item, sold in 50 lb cubes. No true home-scale equivalent.
+- **Sweetex** — high-ratio emulsified shortening; standard bakery supply item, sold in 50 lb cubes. No true home-scale equivalent. No Irish retail source; UK bakery suppliers ship over.
 - **Rumford Baking Powder** — widely available; keep it separate from the general-purpose tin.
 
 ## Appendix — Original card, as written
