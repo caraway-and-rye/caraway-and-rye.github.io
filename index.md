@@ -157,17 +157,9 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ## Breads
 
-[Adare Manor Pancakes](recipes/breads/adare-manor-pancakes)
-
-[American pancakes](recipes/breads/american-pancakes)
-
 [New York Pizza Dough](recipes/breads/pizza-dough)
 
-[Scones](recipes/breads/scones)
-
 [Soda bread](recipes/breads/soda-bread)
-
-[Waffles](recipes/breads/waffles)
 
 [Fruit bread](recipes/breads/fruit-bread)
 
@@ -207,6 +199,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 ## Biscuits
 #### Sweet stuff that goes in the tin and is best eaten with tea
 
+[King Bakery Peanut Butter Cookies](recipes/biscuits/king-bakery-peanut-butter-cookies)
+
 [Chocolate sugar cookies](recipes/biscuits/chocolate-sugar-cookies)
 
 [Dried fruit biscuits](recipes/biscuits/dried-fruit-biscuits)
@@ -236,10 +230,32 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ## Breakfast
 
-[American pancakes](recipes/breads/american-pancakes)
+##### Pancakes, waffles, scones and soda bread
 
-[Scones](recipes/breads/scones)
+[Adare Manor Pancakes](recipes/breakfast/adare-manor-pancakes)
+
+[American pancakes](recipes/breakfast/american-pancakes)
+
+[Scones](recipes/breakfast/scones)
+
+[Waffles](recipes/breakfast/waffles)
 
 [Soda bread](recipes/breads/soda-bread)
 
-[Waffles](recipes/breads/waffles)
+##### Donuts
+
+[King Bakery Yeast Donuts](recipes/breakfast/king-bakery-yeast-donuts)
+
+[King Bakery Plain Donuts](recipes/breakfast/king-bakery-plain-donuts)
+
+[King Bakery Donut Glaze](recipes/breakfast/king-bakery-donut-glaze)
+
+##### Pastries and buns
+
+[King Bakery Croissant](recipes/breakfast/king-bakery-croissant)
+
+[King Bakery Sweet Dough](recipes/breakfast/king-bakery-sweet-dough)
+
+[King Bakery Cinnamon Smear](recipes/breakfast/king-bakery-cinnamon-smear)
+
+[King Bakery Cinnamon Bun Icing](recipes/breakfast/king-bakery-cinnamon-bun-icing)
