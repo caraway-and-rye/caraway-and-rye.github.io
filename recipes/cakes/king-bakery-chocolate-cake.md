@@ -8,17 +8,17 @@ Liquids are given by volume, as in the original — see Notes on why they haven'
 
 ### Batter — Stage 1: mix 3 minutes on low speed
 
-| Ingredient                                    | 8 qt   | 4 qt  | 2 qt  | 1 qt  | ¾ qt   | ½ qt  |
-| --------------------------------------------- | ------ | ----- | ----- | ----- | ------ | ----- |
-| Granulated Sugar                              | 7257g  | 3629g | 1814g | 907g  | 680g   | 454g  |
-| Cake Flour<br><small>or plain flour †</small> | 5443g  | 2722g | 1361g | 680g  | 510g   | 340g  |
-| Sweetex                                       | 2155g  | 1077g | 539g  | 269g  | 202g   | 135g  |
-| Unsweetened Cocoa                             | 1361g  | 680g  | 340g  | 170g  | 128g   | 85g   |
-| Baking Powder (Rumford)                       | 227g   | 113g  | 56.7g | 28.3g | 21.3g  | 14.2g |
-| Baking Soda                                   | 227g   | 113g  | 56.7g | 28.3g | 21.3g  | 14.2g |
-| Eggs                                          | 1893mL | 946mL | 473mL | 237mL | 177mL* | 118mL |
+| Ingredient                                    | 8 qt        | 4 qt       | 2 qt      | 1 qt      | ¾ qt       | ½ qt      |
+| --------------------------------------------- | ----------- | ---------- | --------- | --------- | ---------- | --------- |
+| Granulated Sugar                              | 7257g       | 3629g      | 1814g     | 907g      | 680g       | 454g      |
+| Cake Flour<br><small>or plain flour †</small> | 5443g       | 2722g      | 1361g     | 680g      | 510g       | 340g      |
+| Sweetex                                       | 2155g       | 1077g      | 539g      | 269g      | 202g       | 135g      |
+| Unsweetened Cocoa                             | 1361g       | 680g       | 340g      | 170g      | 128g       | 85g       |
+| Baking Powder (Rumford)                       | 227g        | 113g       | 56.7g     | 28.3g     | 21.3g      | 14.2g     |
+| Baking Soda                                   | 227g        | 113g       | 56.7g     | 28.3g     | 21.3g      | 14.2g     |
+| Large Eggs                                    | 1893mL (32) | 946mL (16) | 473mL (8) | 237mL (4) | 177mL (3*) | 118mL (2) |
 
-\* ≈ 4 large eggs (noted on the original card).
+\* The original card annotates this column "4 large eggs". The bakery's own 16-eggs-per-quart convention gives exactly 3 at 3/16 qt, which is what is used here. Counts assume **Irish large** eggs — see [Baking this in Ireland](#baking-this-in-ireland).
 
 † Chlorinated cake flour cannot be sold in the EU. In Ireland, substitute oven-treated plain flour — see [Baking this in Ireland](#baking-this-in-ireland).
 
@@ -129,6 +129,12 @@ Any toasty note this leaves is invisible against 85g of Dutch-process cocoa, whi
 **Do not cut the flour with cornflour.** That is the standard cake-flour substitution and it is wrong here. This batter is already short on structure: the cocoa contributes no gluten and the sugar suppresses what remains, putting effective protein near 7.6%. Diluting with pure starch drops it to roughly 6.6% and invites the cake to sink. Maize starch also gelatinises higher than wheat — about 62–72 °C against 52–64 °C — so on top of a sugar load that already raises the set point, the crumb sets later still, having risen further, with less protein holding it up.
 
 A purpose-milled soft **sponge flour** beats plain flour if you can get one; finer particles hydrate faster, which helps the emulsion. Treat it the same way unless the bag says it is already heat-treated.
+
+**Eggs — buy Irish large. Do not switch to medium.** The counts in the table follow the card's 16-eggs-per-quart convention. That convention does not hold for a US large egg, which yields about 50mL cracked: sixteen of those make roughly 790mL, not the 946mL a quart needs. Whether the bakery's eggs simply ran big, or "four eggs to a cup" was a rounded trade rule, the figure is generous against the eggs it names.
+
+An Irish large egg (63–73g, roughly 56–65mL cracked) lands almost exactly on the ~59mL per egg the card assumes, so the counts come out right here — 32 Irish large ≈ 1920mL against a target of 1893mL, inside 1.5%.
+
+By the grading standards a US large egg (56.7g and up) is an Irish *medium* (53–63g), and Irish large is nearer a US extra-large. That comparison is correct but misleading if acted on: the counts and the egg size are a matched pair, and swapping to medium to "match" the American original leaves you about 20% short on the one ingredient carrying the structure. **If in doubt, ignore the counts and measure the millilitres** — the volumes are the source of truth.
 
 **Test-bake before committing.** Halve the ½ qt column for a single 8–9" layer: flour 170g, sugar 227g, Sweetex 67.5g, cocoa 42.5g, baking powder and soda 7.1g each, eggs 59mL, hot water 59mL **twice**, whole milk 118mL, salt 3.5g. If it domes and holds, run the full double layer. If it sinks in the middle the flour needs *more* structure, not less — cut in a little strong flour rather than reaching for cornflour.
 
