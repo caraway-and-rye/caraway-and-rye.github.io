@@ -1,4 +1,4 @@
-# Berbere chicken and egg stew
+# Doro Wat (Berbere chicken and egg stew)
 
 Serves 4 to 6.
 
