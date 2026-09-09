@@ -143,6 +143,12 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 ****
 
+## African
+
+[Berbere Chicken Stew](recipes/african/berbere-chicken-stew.md)
+
+****
+
 ## Latin-American
 
 [Chilli con carne](recipes/latin-american/chilli-con-carne)
