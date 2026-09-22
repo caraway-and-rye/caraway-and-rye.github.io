@@ -137,6 +137,8 @@ See also the [food log](recipes/food-journal-2022) of what we had for the main m
 
 [Swordfish with mint and potatoes](recipes/italian/swordfish-with-mint-potatoes)
 
+[Stuffed Cannelloni](recipes/italian/stuffed-cannelloni)
+
 ##### Dolci
 
 [Tiramisu](recipes/italian/tiramisu)
